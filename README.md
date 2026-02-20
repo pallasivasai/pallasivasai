@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **Google Cloud Platform(GCP), Coding concepts, Web development and Database Concepts**
 
-- 📫 How to reach me [**email**](mailto:psairabel143@gmail.com)
+- 📫 How to reach me [**email**](mailto:imsivasai01@gmail.com)
 
-- 📄 Know about my experiences [**Work Experience**](https://drive.google.com/drive/folders/10o1s87RiphtN1XYGb2hIHXgs2O4R1iAz)
+- 📄 Know about my experiences [**Work Experience**](https://drive.google.com/file/d/1O6aVJ7BkqImQwgR-sDWz8I3c5zDbHTCc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
