@@ -43,3 +43,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallasivasai&show_icons=true&locale=en" alt="pallasivasai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pallasivasai&" alt="pallasivasai" /></p>
+
+## 🤝 Open to Collaboration
+I enjoy contributing to open-source analytics projects and building small tools to automate repetitive data tasks. If you have a project or role that fits an entry-level SQL engineer, let’s connect!
+
+---
+
+<p align="center">Made with ❤️ • Always learning • Ready for data challenges</p>
