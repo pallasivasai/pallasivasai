@@ -1,6 +1,7 @@
 <div align="center">
 
 
+
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35" /> Hey! Nice to see you
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+P+Siva+Sai;Passionate+Software+Developer;Actively+seeking+an+Entry-Level+SQL+Role" alt="Typing SVG" />
