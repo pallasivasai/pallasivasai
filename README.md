@@ -1,70 +1,109 @@
 <div align="center">
 
-
-
-
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35" /> Hey! Nice to see you
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+P+Siva+Sai;Passionate+Software+Developer;Actively+seeking+an+Entry-Level+SQL+Role" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I%27m+P+Siva+Sai;Focused+on+Cloud+Engineering+with+Google+Cloud+Platform+%28GCP%29;Growing+in+SQL+and+Data+Engineering;Building+clean+Web+Development+projects;Open+to+Open-Source+Collaboration" alt="Typing SVG" />
+
+### ☁️ Cloud Learner • 💻 Developer • 🤝 Open-Source Collaborator
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=pallasivasai&label=Profile%20views&color=0e75b6&style=flat" alt="pallasivasai" />
+</p>
 
 </div>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pallasivasai&label=Profile%20views&color=0e75b6&style=flat" alt="pallasivasai" /> </p>
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Google Cloud Platform(GCP)**
+I’m **P Siva Sai** — currently focused on **Google Cloud Platform (GCP)** and continuously learning across **cloud** and **development**.
 
+- 🔭 I’m currently working on **Google Cloud Platform (GCP)**
 - 🌱 I’m currently learning **Cloud, Development**
-
 - 👯 I’m looking to collaborate on **Open source contribution**
-
-- 💬 Ask me about **Google Cloud Platform(GCP), Coding concepts, Web development and Database Concepts**
-
-- 📫 How to reach me [**email**](mailto:imsivasai01@gmail.com)
-
-- 📄 Know about my experiences [**Work Experience**](https://drive.google.com/file/d/1O6aVJ7BkqImQwgR-sDWz8I3c5zDbHTCc/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/p-siva-sai-10686417a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="p siva sai" height="30" width="40" /></a>
-<a href="https://www.facebook.com/psivasaihacker143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="p siva sai" height="30" width="40" /></a>
-<a href="https://instagram.com/p_siva_sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p siva sai" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/p_siva_sai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/p_siva_sai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/P_siva_sai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/P_siva_sai/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/psivasai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/psivasai/" height="30" width="40" /></a>
-
-  
-  
-<a href="https://www.hackerrank.com/psivasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="psivasai" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-## 📊 More GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallasivasai&layout=compact&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pallasivasai&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallasivasai&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallasivasai&theme=tokyo-night" />
-</p>
-
-
-## 🤝 Open to Collaboration
-I enjoy contributing to open-source analytics projects and building small tools to automate repetitive data tasks. If you have a project or role that fits an entry-level SQL engineer, let’s connect!
+- 💬 Ask me about **Google Cloud Platform (GCP), Coding concepts, Web development and Database Concepts**
+- 📫 Reach me at **[imsivasai01@gmail.com](mailto:imsivasai01@gmail.com)**
+- 📄 My profile details: **[Work Experience](https://drive.google.com/file/d/1O6aVJ7BkqImQwgR-sDWz8I3c5zDbHTCc/view?usp=sharing)**
 
 ---
 
-<p align="center"> Always learning • Ready for data challenges</p>
+## 🎯 Current Focus Dashboard
+
+<table>
+  <tr>
+    <td>☁️ <b>Cloud Focus</b><br/>Google Cloud Platform (GCP)</td>
+    <td>🗄️ <b>Data Interest</b><br/>SQL and database-driven problem solving</td>
+  </tr>
+  <tr>
+    <td>🌐 <b>Development</b><br/>Web development and coding concepts</td>
+    <td>🤝 <b>Collaboration</b><br/>Open-source contribution and team learning</td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Skills & Tools
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud / DevOps
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/p-siva-sai-10686417a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/psivasaihacker143"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/p_siva_sai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.codechef.com/users/p_siva_sai"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://www.leetcode.com/P_siva_sai/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/psivasai/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.hackerrank.com/psivasai"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+</p>
+
+---
+
+## 📈 GitHub Dashboard
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pallasivasai&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallasivasai&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallasivasai&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallasivasai&theme=tokyo-night" alt="GitHub activity graph" />
+</p>
+
+---
+
+## 🤝 Let’s Collaborate
+
+I enjoy working on cloud, coding, web, and database-oriented ideas. If you’re building something meaningful in these areas, let’s connect and collaborate.
+
+<p align="center"><b>Always learning • Ready for cloud and data challenges</b></p>
