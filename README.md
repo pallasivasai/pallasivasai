@@ -111,7 +111,7 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter- orange?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F57C00?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
@@ -234,16 +234,25 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pallasivasai&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="Palla Siva Sai's GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallasivasai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pallasivasai&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" alt="Palla Siva Sai GitHub stats card" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallasivasai&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" alt="Palla Siva Sai top languages card" />
 
 <br />
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=pallasivasai&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=pallasivasai&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" alt="Palla Siva Sai contribution streak card" />
 
 <br />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pallasivasai&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pallasivasai&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Palla Siva Sai activity graph" />
+
+<br />
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallasivasai&amp;theme=tokyonight" alt="Palla Siva Sai profile summary details card" />
+
+<br />
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pallasivasai&amp;theme=tokyonight" alt="Palla Siva Sai repositories per language card" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pallasivasai&amp;theme=tokyonight" alt="Palla Siva Sai most commit language card" />
 
 </div>
 
