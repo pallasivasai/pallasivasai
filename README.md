@@ -114,6 +114,9 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Trailhead](https://img.shields.io/badge/Trailhead-0176D3?style=for-the-badge&logo=salesforce&logoColor=white)
+![Trailblazer](https://img.shields.io/badge/Trailblazer-0D9DDA?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
 
@@ -272,6 +275,124 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 
 ---
 
+## 🏅 Certifications & Credentials
+
+### ⚡ Salesforce Trailblazer
+- **Salesforce Trailblazer Profile:** [https://www.salesforce.com/trailblazer/pssai](https://www.salesforce.com/trailblazer/pssai)
+
+### 🔐 Cybersecurity
+- **Ethical Hacking Essentials (EHE)** — *Issuer:* EC-Council · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **EC-Council Certified Security Analyst: Penetration Testing (ECSA)** — *Issuer:* EC-Council · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Google Cybersecurity Certificate** — *Issuer:* Google / Coursera · [Credential link](https://www.coursera.org/account/accomplishments/professional-cert/WHB7Q4JLJCK5)
+- **IBM Cybersecurity Analyst Professional Certificate** — *Issuer:* IBM / Coursera · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Cybersecurity Foundations** — *Issuer:* National Association of State Boards of Accountancy (NASBA) · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Cybersecurity Fundamentals** — *Issuer:* IBM · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Cybersecurity IT Fundamentals Specialization** — *Issuer:* Credly by Pearson · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Network Security & Database Vulnerabilities** — *Issuer:* IBM · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Cybersecurity Compliance Framework & System Administration** — *Issuer:* IBM · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Cybersecurity Roles, Processes & Operating System Security** — *Issuer:* IBM · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Penetration Testing, Incident Response and Forensics** — *Issuer:* IBM · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Cyber Threat Intelligence** — *Issuer:* IBM · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **ICSI | CNSS Certified Network Security Specialist** — *Issuer:* DefensityOne · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Most Advanced Level Ethical Hacking Using Kali Linux** — *Issuer:* Udemy · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Complete Python Hacking Course: Beginner To Advanced!** — *Issuer:* Udemy · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **White Hat Hacker And Pen Tester** — *Issuer:* EDUONIX · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Penetration Testing** — *Issuer:* Udemy · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Cyber security fundation** — *Issuer:* Certiprof · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Security Monitoring and Governance** — *Issuer:* Coursera · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Office of the CISO Institute: Cybersecurity Essentials** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Put It to Work Prepare for Cybersecurity Jobs** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Automate Cybersecurity Tasks with Python** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Sound the Alarm: Detection and Response** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Assets, Threats, and Vulnerabilities** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Connect and Protect: Networks and Network Security** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Tools of the Trade: Linux and SQL** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Play It Safe: Manage Security Risks** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Foundations of Cybersecurity** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **PwC Cybersecurity Virtual Case Experience** — *Issuer:* PwC / Forage · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Clifford Chance Cyber Security Global Virtual Internship** — *Issuer:* Clifford Chance / Forage · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Tata Consultancy Services Cyber Security Analyst** — *Issuer:* TCS / Forage · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Prodigy InfoTech Cyber Security Internship** — *Issuer:* Prodigy InfoTech · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Security Monitoring and Governance** — *Issuer:* Microsoft · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **CompTIA A+ (220-1001 and 220-1002) Cert Prep** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Programming Foundations: Web Security** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+
+### 🤖 AI/ML
+- **Machine Learning** — *Issuer:* Stanford University · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **DeepLearning.AI TensorFlow Developer** — *Issuer:* DeepLearning.AI · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Sequences, Time Series and Prediction** — *Issuer:* DeepLearning.AI · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Natural Language Processing in TensorFlow** — *Issuer:* DeepLearning.AI · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Convolutional Neural Networks in TensorFlow** — *Issuer:* DeepLearning.AI · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Introduction to TensorFlow for AI, ML, and Deep Learning** — *Issuer:* DeepLearning.AI · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Complete Machine Learning** — *Issuer:* Udemy · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Machine learning** — *Issuer:* Udemy · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Artificial Intelligence** — *Issuer:* Udemy · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Data Science** — *Issuer:* Udemy · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Data Analysis with R Programming** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Learning Data Analytics** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Ai Fluency: Framework & Foundations** — *Issuer:* Anthropic · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+
+### 🏆 Google Credentials
+- **Foundations of Project Management** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Google Certified Educator Level 1** — *Issuer:* Google for Education · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Google Cybersecurity Certificate** — *Issuer:* Google · [Credential link](https://www.coursera.org/account/accomplishments/professional-cert/WHB7Q4JLJCK5)
+- **Google Cybersecurity Certificate : Badge** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Google Ads Display Certification** — *Issuer:* Google · [Credential link](https://www.skills.google/public_profiles/79b60659-bb15-42dd-852a-9ba427a0158c)
+- **Campaign Manager Certification** — *Issuer:* Google · [Credential link](https://www.skills.google/public_profiles/79b60659-bb15-42dd-852a-9ba427a0158c)
+- **Shopping Ads Certification** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Advanced Google Analytics** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Google Analytics Beginner's** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **YouTube Music Certification** — *Issuer:* YouTube · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Google Digital Workshop** — *Issuer:* Google · [Credential link](https://www.skills.google/public_profiles/79b60659-bb15-42dd-852a-9ba427a0158c)
+- **Google Digital Garage** — *Issuer:* Google · [Credential link](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code)
+- **Google Digital Unlocked** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+
+### ☁️ Cloud / DevOps
+- **AWS Cloud Architect** — *Issuer:* Udemy · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **AWS Educate Getting Started with Compute** — *Issuer:* Amazon Web Services (AWS) · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Amazon Web Services** — *Issuer:* Brainbench · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **DevOps** — *Issuer:* Udemy · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **GoogleCloudReady Facilitator Program** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Introduction to Enterprise Computing** — *Issuer:* IBM · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+
+### 💻 Programming / Web
+- **Software Engineering and Agile software development** — *Issuer:* Infosys · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **JPMorgan Chase Software Engineering Virtual Experience** — *Issuer:* JPMorgan Chase & Co. / Forage · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Microsoft Engineering Virtual Experience Program** — *Issuer:* Microsoft / Forage · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **PHP-MySQL Internship** — *Issuer:* Suven Consultants and Technology · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **HTML Fundamentals Certification** — *Issuer:* SoloLearn · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **SQL fundamentals** — *Issuer:* SoloLearn · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **C++** — *Issuer:* Udemy · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Python Crash Course By Google** — *Issuer:* Coursera · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Javascript & JQuery for beginners** — *Issuer:* Udemy · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Network Engineer** — *Issuer:* Udemy · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Introduction to Microsoft Power Platform** — *Issuer:* Microsoft · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Programming Foundations: Databases** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Programming Foundations: Fundamentals** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Succeeding in Web Development: Full Stack and Front End** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **IT Service Desk Careers and Certifications: First Steps** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+
+### 📋 Project Management
+- **Become a Project Manager** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Project Management Foundations** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Project Management Foundations: Requirements** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Project Management Foundations: Schedules** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Project Management Foundations: Budgets** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Project Management Foundations: Teams** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Project Management Foundations: Communication** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Project Management Foundations: Risk** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Managing Project Stakeholders** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Microsoft Project 2019 and Project Online Desktop Essential Training** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Microsoft Project Quick Tips** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+
+### 📌 Other Credentials
+- **Accenture Discovery Program** — *Issuer:* Accenture / Forage · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Blockchain and Cryptocurrency** — *Issuer:* Udemy · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Remote Work Professional Certification - RWPC™** — *Issuer:* Certiprof · [Credential link](https://www.credly.com/badges/eb5826a1-7e54-4a3d-93a8-bf3a737a5619)
+- **Tech Recruitment Certified Professional** — *Issuer:* SkillPanel · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Post Graduation Diploma In Computer applications** — *Issuer:* Srinivasa institute of computer education · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+
+---
 ## 📊 GitHub Dashboard
 
 <div align="center">
