@@ -315,7 +315,7 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 - **Prodigy InfoTech Cyber Security Internship** — *Issuer:* Prodigy InfoTech · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
 - **Security Monitoring and Governance** — *Issuer:* Microsoft · [Microsoft Learn](https://learn.microsoft.com/en-us/training/achievements/learn.wwl.security-monitoring-and-governance.badge?username=psivasai-2653)
 - **CompTIA A+ (220-1001 and 220-1002) Cert Prep** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
-- **Programming Foundations: Web Security** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Programming Foundations: Web Security** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/b2ffe02bab2f55347950b2fb7efc7544d35b0b0d6f790dd79fbd6ccb75cf893b/?trk=backfilled_certificate)
 
 ### 🤖 AI/ML
 - **Machine Learning** — *Issuer:* Stanford University · [Coursera](https://www.coursera.org/account/accomplishments/verify/KHHE2UXKUQW8)
@@ -329,7 +329,7 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 - **Artificial Intelligence** — *Issuer:* Udemy · [Udemy](https://ude.my/UC-GLKZ44T3)
 - **Data Science** — *Issuer:* Udemy · [Udemy](https://ude.my/UC-FZ39QLNY)
 - **Data Analysis with R Programming** — *Issuer:* Google · [Coursera](https://www.coursera.org/account/accomplishments/verify/QZ8US2P9BPCY)
-- **Learning Data Analytics** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Learning Data Analytics** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/50693d53de2c5fd2138cdd3ca080535139fa7d3299b490e4dd4c797bda562558/?trk=backfilled_certificate)
 - **Ai Fluency: Framework & Foundations** — *Issuer:* Anthropic · [Skilljar](https://verify.skilljar.com/c/fyf64rcvqbve)
 
 ### 🏆 Google Credentials
@@ -367,23 +367,23 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 - **Javascript & JQuery for beginners** — *Issuer:* Udemy · [Udemy](https://www.udemy.com/certificate/UC-8d9489f0-6568-40a0-8cbb-6c8720d99734/?utm_medium=email&utm_campaign=email&utm_source=sendgrid.com)
 - **Network Engineer** — *Issuer:* Udemy · [Udemy](https://www.udemy.com/certificate/UC-da4a2332-55a0-4333-b37d-f6ade8735986/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
 - **Introduction to Microsoft Power Platform** — *Issuer:* Microsoft · [Microsoft Learn](https://learn.microsoft.com/en-us/training/achievements/learn-bizapps.wwl.introduction-power-platform.badge?username=psivasai-2653/)
-- **Programming Foundations: Databases** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
-- **Programming Foundations: Fundamentals** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
-- **Succeeding in Web Development: Full Stack and Front End** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
-- **IT Service Desk Careers and Certifications: First Steps** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Programming Foundations: Databases** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/57739215cd67967eb08d8349d4952bcd982bdda006aefd7d659ae960aa1846cc/?trk=backfilled_certificate)
+- **Programming Foundations: Fundamentals** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/e0d9a83dbbdace0d1a5ecf0b43162123e8bec23a995a8d45d7bdeb1711369d97/?trk=backfilled_certificate)
+- **Succeeding in Web Development: Full Stack and Front End** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/dfd59b118f9b69eeabf5ca90262b8556addeaa2f8968c147d6e6761dcbbbad1b/?trk=backfilled_certificate)
+- **IT Service Desk Careers and Certifications: First Steps** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/390ec39f88aa3e6b4c2134dd2f6e3c86df9a2827d7b768331429957bc3cc2556/?trk=backfilled_certificate)
 
 ### 📋 Project Management
-- **Become a Project Manager** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
-- **Project Management Foundations** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
-- **Project Management Foundations: Requirements** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Become a Project Manager** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/20bb6bd37932336397e9e798aa24c45b665d847cae0d8514aafb51dae6927152/?trk=backfilled_certificate)
+- **Project Management Foundations** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/e9d63ccbb3fad0136afe46d9679caf471773a02301932524b594992794c64c44/?trk=backfilled_certificate)
+- **Project Management Foundations: Requirements** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/e398cd00d8535b131315ce6892b98ac163f90f4ab8929af61f007ea491c0a95e/?trk=backfilled_certificate)
 - **Project Management Foundations: Schedules** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
-- **Project Management Foundations: Budgets** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
-- **Project Management Foundations: Teams** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
-- **Project Management Foundations: Communication** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
-- **Project Management Foundations: Risk** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
-- **Managing Project Stakeholders** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
-- **Microsoft Project 2019 and Project Online Desktop Essential Training** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
-- **Microsoft Project Quick Tips** — *Issuer:* LinkedIn Learning · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Project Management Foundations: Budgets** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/8b9bc26ac4be030341191ecfd8b37a7b4735e3843ec2e2ab59810d62a376dffa/?trk=backfilled_certificate)
+- **Project Management Foundations: Teams** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/1402f29256a4e0da1b8d28e48bf2a14325096d8565deb3b6d48d1b42761f5b03/?trk=backfilled_certificate)
+- **Project Management Foundations: Communication** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/7b74ebb032cd258dc05fb7d177fddca6aa0d6bc1d78ea212bdc482700e2ee738/?trk=backfilled_certificate)
+- **Project Management Foundations: Risk** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/d6a6e82372050c81b0265f817c5d21fd330c337a1d0335ed41659174a73e5992/?trk=backfilled_certificate)
+- **Managing Project Stakeholders** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/6960c728a3b168082377af79e2d785f47101cba23d622073e139eaa95b9603ce/?trk=backfilled_certificate)
+- **Microsoft Project 2019 and Project Online Desktop Essential Training** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/94f29702db5515f7b1bc031c44ef0e23f7b19787635ba8cadcd83db10615c796/?trk=backfilled_certificate)
+- **Microsoft Project Quick Tips** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/d4744a66fe6614d4c8147337b69ec64ab292de968981f11d42fa49a85330c1c7/?trk=backfilled_certificate)
 
 ### 📌 Other Credentials
 - **Accenture Discovery Program** — *Issuer:* Accenture / Forage · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
