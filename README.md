@@ -269,7 +269,7 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 | Qualification | Institution | Result |
 |---|---|---:|
 | **MCA** | KL University | **9.45 CGPA** |
-| **B.Sc. Computer Science** | Chaithanya Bharathi Degree College | **7.02 GPA** |
+| **B.Sc. Computer Science** | Chaithanya Bharathi Degree College | **7.02 CGPA** |
 | **Intermediate** | College | **6.0 GPA** |
 | **SSC** | B ZP High School | **5.5 GPA** |
 
