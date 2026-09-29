@@ -134,29 +134,65 @@ An algorithm-design project focused on constant-time **O(1)** encryption and dec
 
 **Technologies:** Python · Cryptography · Algorithm Design · Data Security
 
+### 🧠 [SAI Search Algorithm](https://github.com/pallasivasai/Searching_Algorithm_By_Me)
+
+An innovative perfect hashing algorithm implementing a two-level universal hashing scheme with cryptographic security, SHA-256, collision-free data structures, **O(1)** lookup, and bidirectional key/value search.
+
+**Technologies:** Python · Algorithm Design · Data Structures · Cryptography
+
 ### 🤖 [SAI-GPT](https://github.com/pallasivasai/sai-gpt)
 
 An AI-powered devotional assistant that helps users explore spiritual texts, devotional questions, and knowledge about Hindu gods through a conversational interface.
 
 **Technologies:** TypeScript · React · AI · Lovable Cloud · Tailwind CSS
 
-### 🎮 [SAI Game](https://github.com/pallasivasai/My_own_game)
+### 🏦 [SAIBANK](https://github.com/pallasivasai/saibank)
+
+A banking system with a 30-minute payment reversal mechanism using SQL triggers for time-based transaction monitoring and rollback.
+
+**Technologies:** SQL Triggers · Database · MySQL · TypeScript · React · Tailwind CSS · Lovable Cloud
+
+### 📈 SIVA Trade AI
+
+An AI-powered trading assistant for Telugu-speaking users that provides potential entry levels, targets, stop-loss recommendations, confidence scores, reasons, and risk warnings.
+
+**Technologies:** TypeScript · React · AI · Lovable Cloud · Tailwind CSS · Trading Analysis
+
+### 🧪 Sai CRUD Operations Lab
+
+An interactive Telugu learning lab for CRUD operations that dynamically generates fields/forms/tables and visualizes browser-to-database data flow and SQL queries.
+
+**Technologies:** TypeScript · React · SQL · Database Education · Telugu Learning · Tailwind CSS · Lovable Cloud
+
+### 💬 [S-Secret Chat](https://github.com/pallasivasai/sai-web)
+
+A private couples chat app with password-protected inbox access, end-to-end encryption, and real-time messaging.
+
+**Technologies:** TypeScript · React · End-to-End Encryption · Lovable Cloud · Tailwind CSS · Real-time Messaging
+
+### 🎮 [SAI Game](https://github.com/pallasivasai/sai-game)
 
 An educational mathematics game that demonstrates algebraic patterns through an interactive number-prediction trick.
 
 **Technologies:** Python · Game Development · Jupyter Notebook
 
-### 🗄️ [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop)
-
-An interactive Telugu-friendly learning lab for SQL CRUD operations that auto-generates forms/tables and visualizes how Insert, Fetch, Update, and Delete queries move between browser and database.
-
-**Technologies:** TypeScript · React · SQL · Database Education · Tailwind CSS · Lovable Cloud
-
-### 🛡️ [Cybersecurity Awareness Quiz](https://github.com/pallasivasai/s-quiz)
+### 🛡️ [Cyber Awareness Quiz By P Siva Sai](https://github.com/pallasivasai/s-quiz)
 
 An interactive learning application designed to explain cyber threats, safe online practices, and security best practices.
 
 **Technologies:** JavaScript · HTML · CSS · Fullscreen API · Cybersecurity Education
+
+### 🔓 [Password Cracker](https://github.com/pallasivasai/Password-Cracker)
+
+An educational Python tool demonstrating brute-force, dictionary, and hash-cracking methods with customizable character sets, wordlists, and MD5/SHA-1/SHA-256 support.
+
+**Technologies:** Python · Cybersecurity · Hash Algorithms · Brute Force · Educational
+
+### 🎭 [Instagram Phishing Attack (Learning)](https://github.com/Psivasai970/Psivasai970.github.io)
+
+An educational phishing demonstration for security research and ethical hacking learning, using GitHub API integration to store captured data in a GitHub repository.
+
+**Technologies:** Security Research · Ethical Hacking · HTML · CSS · JavaScript · GitHub API
 
 ### 🔑 [Authentication System with Database](https://github.com/pallasivasai/Signup-login-system-with-working-data-base)
 
