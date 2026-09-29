@@ -242,6 +242,30 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 
 ---
 
+## 🧠 Technology → Project Map
+
+<div align="center">
+
+| Technology / Skill | Projects where it is demonstrated |
+|---|---|
+| **⚛️ React / TypeScript** | [SAI-GPT](https://github.com/pallasivasai/sai-gpt) · [SAIBANK](https://github.com/pallasivasai/saibank) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) · [Recipe Ideas App](https://github.com/pallasivasai/Recipe-Ideas-App) · [Book Finder](https://github.com/pallasivasai/Book-Finder-Application-for-College-Students) |
+| **🐍 Python** | [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) · [SAI Encryption-Decryption](https://github.com/pallasivasai/SAI-Encryption-Decryption-Algorithm) · [SAI Game](https://github.com/pallasivasai/My_own_game) · [SAI Search Algorithm](https://github.com/pallasivasai/Searching_Algorithm_By_Me) · [Password Cracker](https://github.com/pallasivasai/Password-Cracker) |
+| **🗄️ SQL / MySQL / Database** | [SAIBANK](https://github.com/pallasivasai/saibank) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) · [Vote Management System](https://github.com/pallasivasai/votesystem) |
+| **⚙️ Backend / APIs** | [SAIBANK](https://github.com/pallasivasai/saibank) · [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
+| **🔐 Cybersecurity** | [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) · [SAI Encryption-Decryption](https://github.com/pallasivasai/SAI-Encryption-Decryption-Algorithm) · [Password Cracker](https://github.com/pallasivasai/Password-Cracker) · [Cyber Awareness Quiz](https://github.com/pallasivasai/s-quiz) · [Instagram Phishing Attack](https://github.com/Psivasai970/Psivasai970.github.io) |
+| **🤖 AI / Machine Learning** | [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) · [SAI-GPT](https://github.com/pallasivasai/sai-gpt) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) |
+| **🌐 HTML / CSS / JavaScript** | [Cyber Awareness Quiz](https://github.com/pallasivasai/s-quiz) · [Instagram Phishing Attack](https://github.com/Psivasai970/Psivasai970.github.io) · [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) |
+| **🔒 Authentication / Security** | [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) · [SAIBANK](https://github.com/pallasivasai/saibank) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
+| **📡 Real-time / Messaging** | [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
+| **☁️ Cloud / Lovable Cloud** | [SAIBANK](https://github.com/pallasivasai/saibank) · [SAI-GPT](https://github.com/pallasivasai/sai-gpt) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
+| **📊 Data / Analytics** | [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) |
+
+</div>
+
+> **Proof of skills:** The projects above show where the listed technologies are used in practical applications, rather than presenting the technologies only as standalone badges.
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔐 [DDoS Attack Detection System (SAI Algorithm)](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning)
