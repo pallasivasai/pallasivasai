@@ -234,26 +234,35 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pallasivasai&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" alt="GitHub profile stats for Palla Siva Sai" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallasivasai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Most used programming languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallasivasai&theme=tokyonight" alt="GitHub profile statistics summary" width="48%" style="max-width: 100%; min-width: 280px;" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pallasivasai&theme=tokyonight" alt="Repository technology distribution by language" width="48%" style="max-width: 100%; min-width: 280px;" />
 
 <br />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=pallasivasai&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak statistics" />
+<img src="https://streak-stats.demolab.com?user=pallasivasai&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak statistics" width="96%" style="max-width: 900px;" />
 
 <br />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pallasivasai&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph over time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallasivasai&theme=tokyonight" alt="GitHub activity graph and profile details summary" width="96%" style="max-width: 980px;" />
 
 <br />
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallasivasai&theme=tokyonight" alt="GitHub contribution and repository summary" />
-
-<br />
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=pallasivasai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub profile trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pallasivasai&theme=tokyonight" alt="Most committed technology distribution" width="48%" style="max-width: 100%; min-width: 280px;" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pallasivasai&theme=tokyonight&utcOffset=5.5" alt="Productive coding time summary" width="48%" style="max-width: 100%; min-width: 280px;" />
 
 </div>
+
+### Technology Snapshot
+
+| Area | Primary Technologies |
+|---|---|
+| Languages | Python, Java, JavaScript, TypeScript, PHP, SQL |
+| Frontend | HTML, CSS, React, Tailwind CSS |
+| Backend & APIs | Python, PHP, REST APIs, Authentication, Real-time Messaging |
+| Data & Cloud | MySQL, Supabase, AWS, Google Cloud, Docker, Kubernetes |
+| AI & Security | Machine Learning, TensorFlow, OpenCV, Cryptography, Cybersecurity |
+
+> **Dashboard troubleshooting:** The old `github-readme-stats` and `github-profile-trophy` cards often fail on shared public Vercel deployments (timeouts/rate limits), and GitHub's image proxy can keep a failed response cached for a while. The original Markdown URLs were syntactically valid, so intermittent provider uptime, API limits, or proxy caching is the most likely cause rather than a README syntax error.
 
 ---
 
