@@ -7,7 +7,15 @@
 <p>
   <a href="https://pallasivasai.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:imsivasai01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/p-siva-sai-10686417a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/pallasivasai/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/pallasivasai"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.skills.google/public_profiles/79b60659-bb15-42dd-852a-9ba427a0158c"><img src="https://img.shields.io/badge/Google%20Cloud%20Skills-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills" /></a>
+  <a href="https://www.hackerrank.com/profile/Psivasai"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://tryhackme.com/p/psivasai"><img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://www.salesforce.com/trailblazer/pssai"><img src="https://img.shields.io/badge/Salesforce%20Trailblazer-Profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Trailblazer" /></a>
+  <a href="https://www.coursera.org/user/8060386efadd322754c7edd16383b43d"><img src="https://img.shields.io/badge/Coursera-Profile-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" /></a>
+  <a href="https://about.me/psivasai"><img src="https://img.shields.io/badge/About.me-Profile-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About.me" /></a>
+  <a href="https://linktr.ee/psivasai"><img src="https://img.shields.io/badge/Linktree-Profile-39E09B?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" /></a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+practical+software+solutions;Exploring+cloud%2C+AI%2C+databases+and+security;Researching+lightweight+DDoS+detection;Always+learning+and+creating" alt="Typing introduction" />
