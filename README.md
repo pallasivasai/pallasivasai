@@ -290,6 +290,7 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 | **🎓 Google Certified Educator Level 1** | [Google for Education Credential](https://edu.google.accredible.com/ee2c1da0-174a-4bcd-a0d3-9cf8c4817fb7) |
 | **📣 Google Ads Display Certification** | [Google Skillshop Credential](https://skillshop.credential.net/e0452442-5cdd-4033-9493-b0099a4dd6c0) |
 | **💻 HackerRank** | [HackerRank Profile](https://www.hackerrank.com/profile/Psivasai) · [Java Certificate](https://www.hackerrank.com/certificates/736758bf6670) · [SQL Certificate](https://www.hackerrank.com/certificates/e3aeb91bac39) · [Python Certificate](https://www.hackerrank.com/certificates/c4ab3ed43ee6) |
+| **🔬 Wrong Payment Recovery Research** | [ResearchGate Paper](https://www.researchgate.net/publication/414356347_A_24-Hour_Time-Bound_Wrong_Payment_Recovery_Framework_for_Secure_Digital_Banking_Transactions_P_Siva_Sai_Independent_Researcher_A_Proposed_Architecture_for_Transaction_Reversal_Negative-Balance_Recove) · [DOI: 10.13140/RG.2.2.20508.24960](https://doi.org/10.13140/RG.2.2.20508.24960) |
 
 
 ## 🚀 Featured Projects
@@ -478,6 +479,7 @@ A proposed architecture for structured recovery of wrong digital payments within
 - 💳 **Recovery paths:** Negative-balance recovery and future-credit recovery are explored as part of the proposed framework
 - 🧪 **SAI Bank prototype:** The current prototype demonstrates a **30-minute wrong-payment reversal workflow**, while the research proposal explores extending the concept to a broader 24-hour framework
 - 📄 [Read the research paper on ResearchGate](https://www.researchgate.net/publication/414356347_A_24-Hour_Time-Bound_Wrong_Payment_Recovery_Framework_for_Secure_Digital_Banking_Transactions_P_Siva_Sai_Independent_Researcher_A_Proposed_Architecture_for_Transaction_Reversal_Negative-Balance_Recove)
+- 🆔 **DOI:** [10.13140/RG.2.2.20508.24960](https://doi.org/10.13140/RG.2.2.20508.24960)
 
 ---
 ---
