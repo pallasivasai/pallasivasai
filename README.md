@@ -18,7 +18,7 @@
   <a href="https://linktr.ee/psivasai"><img src="https://img.shields.io/badge/Linktree-Profile-39E09B?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+practical+software+solutions;Exploring+cloud%2C+AI%2C+databases+and+security;Researching+lightweight+DDoS+detection;Always+learning+and+creating" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Always+learning+and+creating;Building+practical+software+solutions;Exploring+cloud%2C+AI%2C+databases+and+security;Researching+lightweight+DDoS+detection" alt="Typing introduction" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=pallasivasai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -289,7 +289,7 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 | **☁️ Microsoft Azure** | Hands-on learning/challenge participation with **goodies/rewards earned** |
 | **🎓 Google Certified Educator Level 1** | [Google for Education Credential](https://edu.google.accredible.com/ee2c1da0-174a-4bcd-a0d3-9cf8c4817fb7) |
 | **📣 Google Ads Display Certification** | [Google Skillshop Credential](https://skillshop.credential.net/e0452442-5cdd-4033-9493-b0099a4dd6c0) |
-| **💻 HackerRank** | [HackerRank Profile / Skills](https://www.hackerrank.com/psivasai) — profile proof currently available; specific HackerRank certification names/credential URLs have not been added without separate certificate proof. |
+| **💻 HackerRank** | [HackerRank Profile](https://www.hackerrank.com/profile/Psivasai) · [Java Certificate](https://www.hackerrank.com/certificates/736758bf6670) · [SQL Certificate](https://www.hackerrank.com/certificates/e3aeb91bac39) · [Python Certificate](https://www.hackerrank.com/certificates/c4ab3ed43ee6) |
 
 
 ## 🚀 Featured Projects
@@ -466,6 +466,20 @@ A unified authentication-recovery concept combining secure forgot-password workf
 
 - 🆔 DOI: `10.13140/RG.2.2.11916.48006`
 
+
+### **A 24-Hour Time-Bound Wrong Payment Recovery Framework for Secure Digital Banking Transactions**
+
+**September 2026 · Research Proposal · Independent Researcher**
+
+A proposed architecture for structured recovery of wrong digital payments within a **24-hour reporting window**. The framework explores **transaction verification, recipient-fund restriction, negative-balance recovery, outgoing transaction controls, future-credit recovery, database-level controls, audit logging, and transaction consistency**.
+
+- ⏱️ **Recovery window:** Proposed 24-hour reporting/recovery framework
+- 🔐 **Security & control areas:** Transaction verification, recipient-fund restriction, outgoing transaction controls, authentication/verification, database controls, and audit logging
+- 💳 **Recovery paths:** Negative-balance recovery and future-credit recovery are explored as part of the proposed framework
+- 🧪 **SAI Bank prototype:** The current prototype demonstrates a **30-minute wrong-payment reversal workflow**, while the research proposal explores extending the concept to a broader 24-hour framework
+- 📄 [Read the research paper on ResearchGate](https://www.researchgate.net/publication/414356347_A_24-Hour_Time-Bound_Wrong_Payment_Recovery_Framework_for_Secure_Digital_Banking_Transactions_P_Siva_Sai_Independent_Researcher_A_Proposed_Architecture_for_Transaction_Reversal_Negative-Balance_Recove)
+
+---
 ---
 
 ## 💼 Current Professional Experience
