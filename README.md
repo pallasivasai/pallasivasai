@@ -261,6 +261,11 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 | **🧩 Algorithms / Data Structures** | [SAI-Encryption-Decryption](https://github.com/pallasivasai/SAI-Encryption-Decryption-Algorithm) · [SAI Search Algorithm](https://github.com/pallasivasai/Searching_Algorithm_By_Me) · [SAI Game](https://github.com/pallasivasai/My_own_game) |
 | **🔐 Hash Algorithms / Brute Force** | [Password Cracker](https://github.com/pallasivasai/Password-Cracker) |
 | **🛡️ Fullscreen API / Cyber Education** | [Cyber Awareness Quiz](https://github.com/pallasivasai/s-quiz) |
+| **🐍 Python / Streamlit** | [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System) · [Marketing & Sales Dashboard](https://github.com/pallasivasai/marketing-sales-dashboard-New) |
+| **📊 HR / Sales Analytics** | [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System) · [Marketing & Sales Dashboard](https://github.com/pallasivasai/marketing-sales-dashboard-New) |
+| **🗄️ SQLite / Reporting** | [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System) |
+| **📈 Pandas / Excel Analytics** | [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System) · [Marketing & Sales Dashboard](https://github.com/pallasivasai/marketing-sales-dashboard-New) |
+| **📄 PDF / Excel Reporting** | [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System) · [Marketing & Sales Dashboard](https://github.com/pallasivasai/marketing-sales-dashboard-New) |
 | **📊 Database Design / SQL Triggers** | [SAIBANK](https://github.com/pallasivasai/saibank) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [Vote Management System](https://github.com/pallasivasai/votesystem) |
 
 </div>
@@ -364,6 +369,18 @@ A modern web application for discovering and exploring recipe ideas with an intu
 A specialized application for college students to search, discover, and find books relevant to their courses and interests.
 
 **Technologies:** TypeScript · React · API Integration
+
+### 👥 [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System)
+
+A database-driven HR management and analytics application combining employee management, performance, attendance, goals, leave management, Employee 360, employee self-service, and HR reporting.
+
+**Technologies:** Python · Streamlit · SQLite · SQL · Pandas · OpenPyXL · ReportLab · Excel · GitHub
+
+### 📊 [Marketing & Sales Dashboard](https://github.com/pallasivasai/marketing-sales-dashboard-New)
+
+An interactive sales and employee-performance analytics dashboard for target-vs-actual analysis, employee achievement, customer analytics, brand-wise sales, rankings, and downloadable performance reports.
+
+**Technologies:** Python · Streamlit · Pandas · Excel · OpenPyXL · ReportLab · Business Analytics · GitHub · Streamlit Cloud
 
 ### 🔐 [AI-Based Secure Forgot Password System with DDoS Attack Detection and Prevention](https://www.researchgate.net/publication/398446113)
 
@@ -595,6 +612,8 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 | Backend & Integration | Python, PHP, Java, Lovable Cloud / Supabase, REST & GitHub API Integration, Authentication & Sessions, Real-time Messaging |
 | Database & Automation | SQL, MySQL, DBMS & Schema Design, SQL Triggers & Automation |
 | AI & Security | Machine Learning (SAI Algorithm), Cryptography & Encryption, Cybersecurity & Ethical Hacking |
+| HR / Business Analytics | HR workforce analytics, employee performance, sales analytics, target vs actual, KPI dashboards |
+| Data & Reporting | Pandas, SQLite, SQL, Excel, OpenPyXL, ReportLab, Streamlit |
 | Algorithms & Tools | Algorithms & Data Structures, Git & GitHub |
 
 ## 🌐 Connect With Me
