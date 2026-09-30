@@ -462,6 +462,7 @@ Research on a lightweight DDoS detection method using a compact feature set, inc
 
 **September 2026 · Research Article**
 
+- 📖 [Read the publication on ResearchGate](https://www.researchgate.net/publication/414205110_AI-Based_Secure_Forgot_Password_System_with_DDoS_Attack_Detection_and_Prevention)
 A unified authentication-recovery concept combining secure forgot-password workflows with AI-assisted DDoS detection and prevention techniques.
 
 - 🆔 DOI: `10.13140/RG.2.2.11916.48006`
