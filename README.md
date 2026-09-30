@@ -149,13 +149,10 @@ I enjoy transforming ideas into useful applications, explaining technical concep
   <tr>
     <td><b>⚙️ Backend & APIs</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
     </td>
     <td>Server-side logic, authentication, APIs, integrations and application workflows</td>
   </tr>
@@ -163,7 +160,6 @@ I enjoy transforming ideas into useful applications, explaining technical concep
     <td><b>🗄️ Database & Data</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
@@ -181,7 +177,7 @@ I enjoy transforming ideas into useful applications, explaining technical concep
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
       <img src="https://img.shields.io/badge/DAX-1B4D3E?style=flat-square&logo=microsoft&logoColor=white" />
     </td>
-    <td>ML models, computer vision, anomaly detection, dashboards and intelligent applications</td>
+    <td>ML models, computer vision (OpenCV), anomaly detection, Power BI/DAX dashboards and intelligent applications</td>
   </tr>
   <tr>
     <td><b>🔐 Cybersecurity</b></td>
@@ -197,13 +193,8 @@ I enjoy transforming ideas into useful applications, explaining technical concep
   <tr>
     <td><b>☁️ Cloud & DevOps</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
       <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Lovable_Cloud-FF4F8B?style=flat-square&logo=cloudflare&logoColor=white" />
     </td>
     <td>Deployment, containerization, CI/CD, cloud services and production workflows</td>
   </tr>
@@ -215,8 +206,6 @@ I enjoy transforming ideas into useful applications, explaining technical concep
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
     </td>
     <td>Version control, development, testing, notebooks, mobile and cross-platform work</td>
   </tr>
@@ -228,15 +217,15 @@ I enjoy transforming ideas into useful applications, explaining technical concep
   <tr>
     <td align="center"><b>🎨 UI</b><br/>React · HTML · CSS · JS/TS</td>
     <td align="center">→</td>
-    <td align="center"><b>⚙️ API</b><br/>Node.js · Express · Python · PHP</td>
+    <td align="center"><b>⚙️ API</b><br/>Python · PHP · REST APIs</td>
     <td align="center">→</td>
-    <td align="center"><b>🗄️ Data</b><br/>MySQL · MongoDB · Supabase · SQL</td>
+    <td align="center"><b>🗄️ Data</b><br/>MySQL · Supabase · SQL · Pandas</td>
     <td align="center">→</td>
-    <td align="center"><b>☁️ Deploy</b><br/>Cloud · Docker · CI/CD</td>
+    <td align="center"><b>☁️ Deploy</b><br/>Lovable Cloud · Streamlit Cloud</td>
   </tr>
 </table>
 
-> **Full-stack capability:** From frontend UI and API development to database design, authentication, cloud deployment, AI/ML, analytics and cybersecurity.
+> **Project-proven capability:** Frontend UI, Python/PHP application logic, REST/API integration, SQL/database workflows, cloud-hosted applications, AI/ML, analytics and cybersecurity.
 
 </div>
 
