@@ -365,6 +365,12 @@ A specialized application for college students to search, discover, and find boo
 
 **Technologies:** TypeScript · React · API Integration
 
+### 🔐 [AI-Based Secure Forgot Password System with DDoS Attack Detection and Prevention](https://www.researchgate.net/publication/398446113)
+
+A unified authentication-recovery framework combining AI-assisted DDoS detection and prevention with secure password recovery, behavior profiling, adaptive rate limiting, and time-bound reset tokens.
+
+**Technologies:** AI · SAI Algorithm · Authentication · DDoS Prevention · Password Recovery · Account Security
+
 ## 🔬 Research & Publications
 
 ### **SAI Algorithm: A Lightweight Real-Time DDoS Detection Algorithm**
