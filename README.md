@@ -98,10 +98,14 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 
 ### ☁️ Cloud & Deployment
 
+![Google Cloud](https://img.shields.io/badge/Google_Cloud_(GCP)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Lovable Cloud](https://img.shields.io/badge/Lovable_Cloud-FF4F8B?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+> 🏆 **Cloud Learning & Recognition:** Hands-on learning and challenge participation across **Google Cloud (GCP)** and **Microsoft Azure**, with **goodies/rewards earned** through these programs.
 
 ### 🤖 AI, Machine Learning & Security
 
@@ -203,11 +207,13 @@ I enjoy transforming ideas into useful applications, explaining technical concep
   <tr>
     <td><b>☁️ Cloud & DevOps</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Google_Cloud_(GCP)-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
       <img src="https://img.shields.io/badge/Lovable_Cloud-FF4F8B?style=flat-square&logo=cloudflare&logoColor=white" />
       <img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
       <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
     </td>
-    <td>Cloud-hosted web applications and Streamlit deployments</td>
+    <td>Google Cloud (GCP) and Azure learning/challenge experience, plus cloud-hosted web applications and Streamlit deployments</td>
   </tr>
   <tr>
     <td><b>🧰 Development Tools</b></td>
@@ -232,7 +238,7 @@ I enjoy transforming ideas into useful applications, explaining technical concep
     <td align="center">→</td>
     <td align="center"><b>🗄️ Data</b><br/>MySQL · SQLite · Supabase · SQL · Pandas</td>
     <td align="center">→</td>
-    <td align="center"><b>☁️ Deploy</b><br/>Lovable Cloud · Streamlit Cloud</td>
+    <td align="center"><b>☁️ Cloud</b><br/>GCP · Azure · Lovable Cloud · Streamlit Cloud</td>
   </tr>
 </table>
 
@@ -575,6 +581,8 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 - **Amazon Web Services** — *Issuer:* Brainbench · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
 - **DevOps** — *Issuer:* Udemy · [Udemy](https://www.udemy.com/certificate/UC-06SOE06H/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
 - **GoogleCloudReady Facilitator Program** — *Issuer:* Google · [LinkedIn certifications listing](https://www.linkedin.com/in/pallasivasai/details/certifications/)
+- **Google Cloud (GCP) — Hands-on Learning & Challenge Participation** — *Recognition:* Earned goodies/rewards through Google Cloud learning/challenge programs
+- **Microsoft Azure — Hands-on Learning & Challenge Participation** — *Recognition:* Earned goodies/rewards through Microsoft Azure learning/challenge programs
 - **Introduction to Enterprise Computing** — *Issuer:* IBM · [Credly](https://www.credly.com/badges/17da04af-da6a-417f-b8eb-b97767ba43b5)
 
 ### 💻 Programming / Web
@@ -646,7 +654,7 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 | Database & Automation | SQL, MySQL, SQLite, DBMS & Schema Design, SQL Triggers & Automation |
 | AI & Security | Machine Learning (SAI Algorithm), TensorFlow, Keras, OpenCV, Cryptography & Encryption, Cybersecurity & Ethical Hacking |
 | Data & Reporting | Pandas, OpenPyXL, ReportLab, Excel, Streamlit, Power BI, DAX |
-| Cloud & Deployment | Lovable Cloud, Streamlit Cloud, Oracle Cloud, GitHub |
+| Cloud & Deployment | **Google Cloud (GCP)**, **Microsoft Azure**, Lovable Cloud, Streamlit Cloud, Oracle Cloud, GitHub |
 | Algorithms & Tools | Algorithms & Data Structures, Git & GitHub, Jupyter Notebook |
 
 ## 🌐 Connect With Me
