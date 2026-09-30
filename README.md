@@ -278,11 +278,15 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 
 A comprehensive machine learning solution for detecting Distributed Denial of Service (DDoS) attacks using my own SAI algorithm with advanced data analysis techniques. Achieves approximately 99% accuracy in threat detection.
 
+**Frontend:** Not applicable · **Backend / Server:** Python · **Database:** Dataset / data processing · **Cloud / Hosting:** Not specified
+
 **Technologies:** Python · Machine Learning · SAI Algorithm · Jupyter Notebook · Cybersecurity
 
 ### 🔒 [SAI-Encryption-Decryption Algorithm (Always O(1))](https://github.com/pallasivasai/SAI-Encryption-Decryption-Algorithm)
 
 A revolutionary encryption and decryption algorithm focused on constant O(1) time complexity for encryption and decryption operations.
+
+**Frontend:** Not applicable · **Backend / Server:** Python · **Database:** Not applicable · **Cloud / Hosting:** Not specified
 
 **Technologies:** Python · Cryptography · Algorithm Design · Data Security
 
@@ -290,11 +294,15 @@ A revolutionary encryption and decryption algorithm focused on constant O(1) tim
 
 An AI-powered devotional assistant designed to help users explore Grandhas, spiritual texts, devotional questions, and knowledge about Hindu gods through a conversational AI interface.
 
+**Frontend:** React · TypeScript · Tailwind CSS · **Backend / Server:** AI application logic · **Database:** Not specified · **Cloud / Hosting:** Lovable Cloud
+
 **Technologies:** TypeScript · React · AI · Lovable Cloud · Tailwind CSS
 
 ### 🎮 [SAI Game](https://github.com/pallasivasai/My_own_game)
 
 A math magic trick game demonstrating algebraic principles through an interactive sequence of arithmetic operations and number prediction.
+
+**Frontend:** Not applicable · **Backend / Server:** Python · **Database:** Not applicable · **Cloud / Hosting:** Not specified
 
 **Technologies:** Python · Game Development · Jupyter Notebook
 
@@ -302,11 +310,15 @@ A math magic trick game demonstrating algebraic principles through an interactiv
 
 A perfect hashing algorithm using a two-level universal hashing scheme with cryptographic security, SHA-256, collision-free data structures, O(1) lookup, and bidirectional search.
 
+**Frontend:** Not applicable · **Backend / Server:** Python · **Database:** In-memory / algorithmic data structures · **Cloud / Hosting:** Not specified
+
 **Technologies:** Python · Algorithm Design · Data Structures · Cryptography
 
 ### 🏦 [SAIBANK](https://github.com/pallasivasai/saibank)
 
 A banking system featuring a 30-minute payment reversal mechanism using SQL triggers for time-based transaction monitoring and rollback.
+
+**Frontend:** React · TypeScript · Tailwind CSS · **Backend / Server:** Lovable Cloud · **Database:** MySQL · SQL Triggers · **Cloud / Hosting:** Lovable Cloud
 
 **Technologies:** SQL Triggers · Database · MySQL · TypeScript · React · Tailwind CSS · Lovable Cloud
 
@@ -314,65 +326,15 @@ A banking system featuring a 30-minute payment reversal mechanism using SQL trig
 
 An AI-powered trading assistant built for Telugu-speaking users that provides potential entry levels, target prices, stop-loss recommendations, confidence scores, supporting reasons, and risk warnings.
 
+**Frontend:** React · TypeScript · Tailwind CSS · **Backend / Server:** AI application logic · **Database:** Not specified · **Cloud / Hosting:** Lovable Cloud
+
 **Technologies:** TypeScript · React · AI · Lovable Cloud · Tailwind CSS · Trading Analysis
-
-### 🗄️ [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop)
-
-An interactive Telugu learning lab for database CRUD operations. Users can define their own fields, generate forms and tables, and visualize how data moves from the browser to the database along with the SQL query being executed.
-
-**Technologies:** TypeScript · React · SQL · Database · Education · Telugu Learning · Tailwind CSS · Lovable Cloud
-
-### 💬 [S-Secret Chat](https://github.com/pallasivasai/sai-web)
-
-A private and secure chat application with password-protected inbox access, end-to-end encryption, and real-time messaging.
-
-**Technologies:** TypeScript · React · End-to-End Encryption · Lovable Cloud · Tailwind CSS · Real-time Messaging
-
-### 🔓 [Password Cracker](https://github.com/pallasivasai/Password-Cracker)
-
-An educational Python-based password-cracking tool demonstrating brute-force, dictionary, and hash-cracking methodologies, with support for MD5, SHA-1, and SHA-256.
-
-**Technologies:** Python · Cybersecurity · Hash Algorithms · Brute Force · Educational
-
-### 🛡️ [Cyber Awareness Quiz By P Siva Sai](https://github.com/pallasivasai/s-quiz)
-
-An interactive cybersecurity awareness quiz application with fullscreen enforcement, designed to educate users about cyber threats, safe online practices, and security best practices.
-
-**Technologies:** JavaScript · HTML · CSS · Fullscreen API · Cybersecurity Education
-
-### 🎣 [Instagram Phishing Attack (Learning)](https://github.com/Psivasai970/Psivasai970.github.io)
-
-An educational demonstration of phishing attack techniques for cybersecurity awareness and ethical hacking learning, including GitHub API integration for data handling.
-
-**Technologies:** Security Research · Ethical Hacking · HTML · CSS · JavaScript · GitHub API
-
-### 🔑 [Authentication System with Database](https://github.com/pallasivasai/Signup-login-system-with-working-data-base)
-
-A complete signup and login system with working database integration, secure user authentication, and session management.
-
-**Technologies:** HTML · PHP · MySQL · Authentication
-
-### 🗳️ [Vote Management System](https://github.com/pallasivasai/votesystem)
-
-A voting system application built with PHP for managing elections and polls with database-driven functionality.
-
-**Technologies:** PHP · MySQL · Database Design
-
-### 🍳 [Recipe Ideas App](https://github.com/pallasivasai/Recipe-Ideas-App)
-
-A modern web application for discovering and exploring recipe ideas with an intuitive and responsive interface.
-
-**Technologies:** TypeScript · React · Tailwind CSS
-
-### 📚 [Book Finder Application](https://github.com/pallasivasai/Book-Finder-Application-for-College-Students)
-
-A specialized application for college students to search, discover, and find books relevant to their courses and interests.
-
-**Technologies:** TypeScript · React · API Integration
 
 ### 👥 [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System)
 
 A database-driven HR management and analytics application combining employee management, performance, attendance, goals, leave management, Employee 360, employee self-service, and HR reporting.
+
+**Frontend:** Streamlit · **Backend / Server:** Python · **Database:** SQLite · SQL · **Cloud / Hosting:** Streamlit Cloud
 
 **Technologies:** Python · Streamlit · SQLite · SQL · Pandas · OpenPyXL · ReportLab · Excel · GitHub
 
@@ -380,11 +342,87 @@ A database-driven HR management and analytics application combining employee man
 
 An interactive sales and employee-performance analytics dashboard for target-vs-actual analysis, employee achievement, customer analytics, brand-wise sales, rankings, and downloadable performance reports.
 
+**Frontend:** Streamlit · **Backend / Server:** Python · **Database:** Excel workbook / Pandas data processing · **Cloud / Hosting:** Streamlit Cloud
+
 **Technologies:** Python · Streamlit · Pandas · Excel · OpenPyXL · ReportLab · Business Analytics · GitHub · Streamlit Cloud
+
+### 🗄️ [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop)
+
+An interactive Telugu learning lab for database CRUD operations. Users can define their own fields, generate forms and tables, and visualize how data moves from the browser to the database along with the SQL query being executed.
+
+**Frontend:** React · TypeScript · Tailwind CSS · **Backend / Server:** Lovable Cloud · **Database:** SQL · **Cloud / Hosting:** Lovable Cloud
+
+**Technologies:** TypeScript · React · SQL · Database · Education · Telugu Learning · Tailwind CSS · Lovable Cloud
+
+### 💬 [S-Secret Chat](https://github.com/pallasivasai/sai-web)
+
+A private and secure chat application with password-protected inbox access, end-to-end encryption, and real-time messaging.
+
+**Frontend:** React · TypeScript · Tailwind CSS · **Backend / Server:** Lovable Cloud · Real-time Messaging · **Database:** Not specified · **Cloud / Hosting:** Lovable Cloud
+
+**Technologies:** TypeScript · React · End-to-End Encryption · Lovable Cloud · Tailwind CSS · Real-time Messaging
+
+### 🔓 [Password Cracker](https://github.com/pallasivasai/Password-Cracker)
+
+An educational Python-based password-cracking tool demonstrating brute-force, dictionary, and hash-cracking methodologies, with support for MD5, SHA-1, and SHA-256.
+
+**Frontend:** Not applicable · **Backend / Server:** Python · **Database:** Wordlists / hash data · **Cloud / Hosting:** Not specified
+
+**Technologies:** Python · Cybersecurity · Hash Algorithms · Brute Force · Educational
+
+### 🛡️ [Cyber Awareness Quiz By P Siva Sai](https://github.com/pallasivasai/s-quiz)
+
+An interactive cybersecurity awareness quiz application with fullscreen enforcement, designed to educate users about cyber threats, safe online practices, and security best practices.
+
+**Frontend:** HTML · CSS · JavaScript · Fullscreen API · **Backend / Server:** Not specified · **Database:** Not specified · **Cloud / Hosting:** Not specified
+
+**Technologies:** JavaScript · HTML · CSS · Fullscreen API · Cybersecurity Education
+
+### 🎣 [Instagram Phishing Attack (Learning)](https://github.com/Psivasai970/Psivasai970.github.io)
+
+An educational demonstration of phishing attack techniques for cybersecurity awareness and ethical hacking learning, including GitHub API integration for data handling.
+
+**Frontend:** HTML · CSS · JavaScript · **Backend / Server:** GitHub API Integration · **Database:** GitHub repository data handling · **Cloud / Hosting:** GitHub Pages / GitHub
+
+**Technologies:** Security Research · Ethical Hacking · HTML · CSS · JavaScript · GitHub API
+
+### 🔑 [Authentication System with Database](https://github.com/pallasivasai/Signup-login-system-with-working-data-base)
+
+A complete signup and login system with working database integration, secure user authentication, and session management.
+
+**Frontend:** HTML · **Backend / Server:** PHP · Sessions · **Database:** MySQL · **Cloud / Hosting:** Not specified
+
+**Technologies:** HTML · PHP · MySQL · Authentication
+
+### 🗳️ [Vote Management System](https://github.com/pallasivasai/votesystem)
+
+A voting system application built with PHP for managing elections and polls with database-driven functionality.
+
+**Frontend:** HTML / PHP · **Backend / Server:** PHP · **Database:** MySQL · **Cloud / Hosting:** Not specified
+
+**Technologies:** PHP · MySQL · Database Design
+
+### 🍳 [Recipe Ideas App](https://github.com/pallasivasai/Recipe-Ideas-App)
+
+A modern web application for discovering and exploring recipe ideas with an intuitive and responsive interface.
+
+**Frontend:** React · TypeScript · Tailwind CSS · **Backend / Server:** Not specified · **Database:** Not specified · **Cloud / Hosting:** Not specified
+
+**Technologies:** TypeScript · React · Tailwind CSS
+
+### 📚 [Book Finder Application](https://github.com/pallasivasai/Book-Finder-Application-for-College-Students)
+
+A specialized application for college students to search, discover, and find books relevant to their courses and interests.
+
+**Frontend:** React · TypeScript · **Backend / Server:** API Integration · **Database:** Not specified · **Cloud / Hosting:** Not specified
+
+**Technologies:** TypeScript · React · API Integration
 
 ### 🔐 [AI-Based Secure Forgot Password System with DDoS Attack Detection and Prevention](https://www.researchgate.net/publication/398446113)
 
 A unified authentication-recovery framework combining AI-assisted DDoS detection and prevention with secure password recovery, behavior profiling, adaptive rate limiting, and time-bound reset tokens.
+
+**Frontend:** Not specified · **Backend / Server:** SAI Algorithm · Authentication / Recovery Logic · **Database:** Not specified · **Cloud / Hosting:** Not specified
 
 **Technologies:** AI · SAI Algorithm · Authentication · DDoS Prevention · Password Recovery · Account Security
 
