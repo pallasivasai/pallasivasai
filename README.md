@@ -18,7 +18,7 @@
   <a href="https://linktr.ee/psivasai"><img src="https://img.shields.io/badge/Linktree-Profile-39E09B?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=A+24-Hour+Time-Bound+Wrong+Payment+Recovery+Framework+for+Secure+Digital+Banking+Transactions;Building+practical+software+solutions;Exploring+cloud%2C+AI%2C+databases+and+security;Researching+lightweight+DDoS+detection" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=A+24-Hour+Time-Bound+Wrong+Payment+Recovery+Framework+for+Secure+Digital+Banking+Transactions;Building+practical+software+solutions;Exploring+cloud%2C+AI%2C+databases+and+security;Researching+lightweight+DDoS+detection" alt="Typing introduction" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=pallasivasai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
