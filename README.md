@@ -67,7 +67,11 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Responsive UI](https://img.shields.io/badge/Responsive_UI-4CAF50?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend & Integration
@@ -76,6 +80,7 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 ![PHP](https://img.shields.io/badge/PHP_Backend-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Authentication_%26_Sessions-6C63FF?style=for-the-badge&logo=auth0&logoColor=white)
 ![Real-time Messaging](https://img.shields.io/badge/Real--time_Messaging-FF6F00?style=for-the-badge&logo=socketdotio&logoColor=white)
 
@@ -83,24 +88,29 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS_%26_Schema_Design-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![SQL Triggers](https://img.shields.io/badge/SQL_Triggers_%26_Automation-F29111?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![ReportLab](https://img.shields.io/badge/ReportLab-0B5CAD?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & Deployment
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Lovable Cloud](https://img.shields.io/badge/Lovable_Cloud-FF4F8B?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🤖 AI, Machine Learning & Security
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-1B4D3E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1F2937?style=for-the-badge&logo=protonvpn&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-B82020?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/Cryptography-6B21A8?style=for-the-badge&logo=letsencrypt&logoColor=white)
@@ -112,13 +122,12 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Trailhead](https://img.shields.io/badge/Trailhead-0176D3?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Trailblazer](https://img.shields.io/badge/Trailblazer-0D9DDA?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
+
 
 ## 🧩 Full-Stack Technology Dashboard
 
@@ -154,18 +163,19 @@ I enjoy transforming ideas into useful applications, explaining technical concep
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
     </td>
-    <td>Server-side logic, authentication, APIs, integrations and application workflows</td>
+    <td>Python/PHP application logic, REST/API integration, authentication and application workflows</td>
   </tr>
   <tr>
     <td><b>🗄️ Database & Data</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
     </td>
-    <td>Schema design, CRUD, SQL triggers, transaction workflows, analytics and data processing</td>
+    <td>Relational schema design, CRUD, SQL triggers, transaction workflows, analytics and reporting</td>
   </tr>
   <tr>
     <td><b>🤖 AI & Machine Learning</b></td>
@@ -193,10 +203,11 @@ I enjoy transforming ideas into useful applications, explaining technical concep
   <tr>
     <td><b>☁️ Cloud & DevOps</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
       <img src="https://img.shields.io/badge/Lovable_Cloud-FF4F8B?style=flat-square&logo=cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
     </td>
-    <td>Deployment, containerization, CI/CD, cloud services and production workflows</td>
+    <td>Cloud-hosted web applications and Streamlit deployments</td>
   </tr>
   <tr>
     <td><b>🧰 Development Tools</b></td>
@@ -207,7 +218,7 @@ I enjoy transforming ideas into useful applications, explaining technical concep
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
     </td>
-    <td>Version control, development, testing, notebooks, mobile and cross-platform work</td>
+    <td>Version control, development, testing and notebooks</td>
   </tr>
 </table>
 
@@ -215,11 +226,11 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 
 <table>
   <tr>
-    <td align="center"><b>🎨 UI</b><br/>React · HTML · CSS · JS/TS</td>
+    <td align="center"><b>🎨 UI</b><br/>React · HTML · CSS · JS/TS · Tailwind</td>
     <td align="center">→</td>
     <td align="center"><b>⚙️ API</b><br/>Python · PHP · REST APIs</td>
     <td align="center">→</td>
-    <td align="center"><b>🗄️ Data</b><br/>MySQL · Supabase · SQL · Pandas</td>
+    <td align="center"><b>🗄️ Data</b><br/>MySQL · SQLite · Supabase · SQL · Pandas</td>
     <td align="center">→</td>
     <td align="center"><b>☁️ Deploy</b><br/>Lovable Cloud · Streamlit Cloud</td>
   </tr>
@@ -237,16 +248,17 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 
 | Technology / Skill | Projects where it is demonstrated |
 |---|---|
-| **⚛️ React / TypeScript** | [SAI-GPT](https://github.com/pallasivasai/sai-gpt) · [SAIBANK](https://github.com/pallasivasai/saibank) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) · [Recipe Ideas App](https://github.com/pallasivasai/Recipe-Ideas-App) · [Book Finder](https://github.com/pallasivasai/Book-Finder-Application-for-College-Students) |
+| **⚛️ React / TypeScript / Vite / Tailwind CSS** | [SAI-GPT](https://github.com/pallasivasai/sai-gpt) · [SAIBANK](https://github.com/pallasivasai/saibank) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) · [Recipe Ideas App](https://github.com/pallasivasai/Recipe-Ideas-App) · [Book Finder](https://github.com/pallasivasai/Book-Finder-Application-for-College-Students) |
 | **🐍 Python** | [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) · [SAI Encryption-Decryption](https://github.com/pallasivasai/SAI-Encryption-Decryption-Algorithm) · [SAI Game](https://github.com/pallasivasai/My_own_game) · [SAI Search Algorithm](https://github.com/pallasivasai/Searching_Algorithm_By_Me) · [Password Cracker](https://github.com/pallasivasai/Password-Cracker) · [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System) · [Marketing & Sales Dashboard](https://github.com/pallasivasai/marketing-sales-dashboard-New) |
-| **🗄️ SQL / MySQL / Database** | [SAIBANK](https://github.com/pallasivasai/saibank) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) · [Vote Management System](https://github.com/pallasivasai/votesystem) · [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System) |
+| **🗄️ SQL / MySQL / SQLite / Database** | [SAIBANK](https://github.com/pallasivasai/saibank) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) · [Vote Management System](https://github.com/pallasivasai/votesystem) · [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System) |
 | **🔐 Cybersecurity / Cryptography** | [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) · [SAI Encryption-Decryption](https://github.com/pallasivasai/SAI-Encryption-Decryption-Algorithm) · [SAI Search Algorithm](https://github.com/pallasivasai/Searching_Algorithm_By_Me) · [Password Cracker](https://github.com/pallasivasai/Password-Cracker) · [Instagram Phishing Attack](https://github.com/Psivasai970/Psivasai970.github.io) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
 | **🌐 HTML / CSS / JavaScript** | [Cyber Awareness Quiz](https://github.com/pallasivasai/s-quiz) · [Instagram Phishing Attack](https://github.com/Psivasai970/Psivasai970.github.io) · [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) |
 | **🔌 API Integration** | [Instagram Phishing Attack](https://github.com/Psivasai970/Psivasai970.github.io) · [Book Finder](https://github.com/pallasivasai/Book-Finder-Application-for-College-Students) |
-| **🔒 Authentication / Security** | [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) · [SAIBANK](https://github.com/pallasivasai/saibank) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) · [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System) |
+| **🔒 Authentication / Security** | [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) · [SAIBANK](https://github.com/pallasivasai/saibank) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) · [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System) · [Marketing & Sales Dashboard](https://github.com/pallasivasai/marketing-sales-dashboard-New) |
 | **📡 Real-time Messaging** | [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
-| **☁️ Lovable Cloud** | [SAI-GPT](https://github.com/pallasivasai/sai-gpt) · [SAIBANK](https://github.com/pallasivasai/saibank) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
+| **☁️ Lovable Cloud / Supabase** | [SAI-GPT](https://github.com/pallasivasai/sai-gpt) · [SAIBANK](https://github.com/pallasivasai/saibank) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
 | **🧠 AI / Machine Learning** | [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) · [SAI-GPT](https://github.com/pallasivasai/sai-gpt) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) |
+| **📊 Data Analytics / Reporting** | [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System) · [Marketing & Sales Dashboard](https://github.com/pallasivasai/marketing-sales-dashboard-New) · [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) |
 | **🧩 Algorithms / Data Structures** | [SAI-Encryption-Decryption](https://github.com/pallasivasai/SAI-Encryption-Decryption-Algorithm) · [SAI Search Algorithm](https://github.com/pallasivasai/Searching_Algorithm_By_Me) · [SAI Game](https://github.com/pallasivasai/My_own_game) |
 | **🔐 Hash Algorithms / Brute Force** | [Password Cracker](https://github.com/pallasivasai/Password-Cracker) |
 | **🛡️ Fullscreen API / Cyber Education** | [Cyber Awareness Quiz](https://github.com/pallasivasai/s-quiz) |
@@ -254,7 +266,7 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 
 </div>
 
-> **Proof of skills:** These project mappings are synchronized with the technologies listed for the corresponding projects in the portfolio, showing where the skills are demonstrated in practical applications.
+> **Proof of skills:** Project mappings are aligned to the technologies documented in the portfolio and verified against the corresponding GitHub repositories where repository-level technology details are available.
 
 ## 🚀 Featured Projects
 
@@ -630,13 +642,13 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 
 | Area | Primary Technologies |
 |---|---|
-| Frontend | HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Responsive UI / Fullscreen API |
-| Backend & Integration | Python, PHP, Java, Lovable Cloud / Supabase, REST & GitHub API Integration, Authentication & Sessions, Real-time Messaging |
-| Database & Automation | SQL, MySQL, DBMS & Schema Design, SQL Triggers & Automation |
-| AI & Security | Machine Learning (SAI Algorithm), Cryptography & Encryption, Cybersecurity & Ethical Hacking |
-| HR / Business Analytics | HR workforce analytics, employee performance, sales analytics, target vs actual, KPI dashboards |
-| Data & Reporting | Pandas, SQLite, SQL, Excel, OpenPyXL, ReportLab, Streamlit |
-| Algorithms & Tools | Algorithms & Data Structures, Git & GitHub |
+| Frontend | HTML, CSS, JavaScript, TypeScript, React, Vite, TanStack Start, Tailwind CSS, shadcn/ui, Responsive UI / Fullscreen API |
+| Backend & Integration | Python, PHP, Java, Supabase / Lovable Cloud, REST & GitHub API Integration, Authentication & Sessions, Real-time Messaging |
+| Database & Automation | SQL, MySQL, SQLite, DBMS & Schema Design, SQL Triggers & Automation |
+| AI & Security | Machine Learning (SAI Algorithm), TensorFlow, Keras, OpenCV, Cryptography & Encryption, Cybersecurity & Ethical Hacking |
+| Data & Reporting | Pandas, OpenPyXL, ReportLab, Excel, Streamlit, Power BI, DAX |
+| Cloud & Deployment | Lovable Cloud, Streamlit Cloud, Oracle Cloud, GitHub |
+| Algorithms & Tools | Algorithms & Data Structures, Git & GitHub, Jupyter Notebook |
 
 ## 🌐 Connect With Me
 
