@@ -423,6 +423,27 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 
 ## 🏅 Certifications & Credentials
 
+### ⭐ Key Technical Certifications
+
+- **Google Cybersecurity Certificate** — *Issuer:* Google / Coursera · [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/WHB7Q4JLJCK5)
+- **IBM Cybersecurity Analyst Professional Certificate** — *Issuer:* IBM / Coursera · [Credly](https://www.credly.com/badges/8d97e8d8-ac3a-4608-997b-3c7d85882f40)
+- **Ethical Hacking Essentials (EHE)** — *Issuer:* EC-Council · [EC-Council](https://codered.eccouncil.org/certificate/61e43ab5-4580-443a-a9a7-01515d1d65cb)
+- **Cybersecurity IT Fundamentals Specialization** — *Issuer:* Credly by Pearson · [Credly](https://www.credly.com/badges/126f8016-8ef7-43d0-b68c-65daefb0b152)
+- **DeepLearning.AI TensorFlow Developer** — *Issuer:* DeepLearning.AI · [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/URS7ZWCVZPF9)
+- **Machine Learning** — *Issuer:* Stanford University · [Coursera](https://www.coursera.org/account/accomplishments/verify/KHHE2UXKUQW8)
+- **Natural Language Processing in TensorFlow** — *Issuer:* DeepLearning.AI · [Coursera](https://www.coursera.org/account/accomplishments/verify/DSXSYBNQMGZT)
+- **Convolutional Neural Networks in TensorFlow** — *Issuer:* DeepLearning.AI · [Coursera](https://www.coursera.org/account/accomplishments/verify/Z4D38K93EAQY)
+- **Introduction to TensorFlow for AI, ML, and Deep Learning** — *Issuer:* DeepLearning.AI · [Coursera](https://www.coursera.org/account/accomplishments/verify/MY33JJM6L9PK)
+- **Cyber Threat Intelligence** — *Issuer:* IBM · [Coursera](https://www.coursera.org/account/accomplishments/certificate/MB6MNHUN3NUU)
+- **Penetration Testing, Incident Response and Forensics** — *Issuer:* IBM · [Coursera](https://www.coursera.org/account/accomplishments/verify/2CLXA6XPGBVP)
+- **Network Security & Database Vulnerabilities** — *Issuer:* IBM · [Coursera](https://www.coursera.org/account/accomplishments/verify/5MW8KKXUHKG3)
+- **Programming Foundations: Web Security** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/b2ffe02bab2f55347950b2fb7efc7544d35b0b0d6f790dd79fbd6ccb75cf893b/?trk=backfilled_certificate)
+- **Programming Foundations: Databases** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/57739215cd67967eb08d8349d4952bcd982bdda006aefd7d659ae960aa1846cc/?trk=backfilled_certificate)
+- **Succeeding in Web Development: Full Stack and Front End** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/dfd59b118f9b69eeabf5ca90262b8556addeaa2f8968c147d6e6761dcbbbad1b/?trk=backfilled_certificate)
+
+---
+
+
 ### ⚡ Salesforce Trailblazer
 - **Salesforce Trailblazer Profile:** [https://www.salesforce.com/trailblazer/pssai](https://www.salesforce.com/trailblazer/pssai)
 
