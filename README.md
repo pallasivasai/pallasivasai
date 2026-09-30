@@ -273,6 +273,18 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 
 > **Proof of skills:** Project mappings are aligned to the portfolio's project stack and cross-checked against the corresponding GitHub repositories where repository-level technology details are available.
 
+### 🧾 Proof of Skills & External Recognition
+
+| Skill / Area | Proof / Credential |
+|---|---|
+| **☁️ Google Cloud (GCP)** | [LinkedIn proof / recognition](https://lnkd.in/p/eqmQNkwB) · Hands-on learning/challenge participation with **goodies/rewards earned** |
+| **☁️ Microsoft Azure** | Hands-on learning/challenge participation with **goodies/rewards earned** |
+| **🎓 Google Certified Educator Level 1** | [Google for Education Credential](https://edu.google.accredible.com/ee2c1da0-174a-4bcd-a0d3-9cf8c4817fb7) |
+| **📣 Google Ads Display Certification** | [Google Skillshop Credential](https://skillshop.credential.net/e0452442-5cdd-4033-9493-b0099a4dd6c0) |
+| **📣 Google Digital Marketing** | [Google Digital Workshop](https://learndigital.withgoogle.com/digital-workshop-lu/course/digital-marketing/certificate.pdf) · [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing/certificate.pdf) · [Google Digital Unlocked](https://learndigital.withgoogle.com/digitalunlocked/course/digital-marketing/certificate.pdf) |
+| **💻 HackerRank** | [HackerRank Profile / Skills](https://www.hackerrank.com/psivasai) — profile proof currently available; specific HackerRank certification names/credential URLs have not been added without separate certificate proof. |
+
+
 ## 🚀 Featured Projects
 
 ### 🔐 [DDoS Attack Detection System (SAI Algorithm)](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning)
@@ -565,7 +577,7 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 - **Google Certified Educator Level 1** — *Issuer:* Google for Education · [LinkedIn certifications listing](https://edu.google.accredible.com/ee2c1da0-174a-4bcd-a0d3-9cf8c4817fb7)
 - **Google Cybersecurity Certificate** — *Issuer:* Google · [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/WHB7Q4JLJCK5)
 - **Google Cybersecurity Certificate : Badge** — *Issuer:* Google · [Credly](https://www.credly.com/badges/e81fe761-6666-4cfb-bbe9-02caae20a831)
-- **Google Ads Display Certification** — *Issuer:* Google · [Google Skillshop](https://skillshop.exceedlms.com/student/award/41288885)
+- **Google Ads Display Certification** — *Issuer:* Google · [Google Skillshop Credential](https://skillshop.credential.net/e0452442-5cdd-4033-9493-b0099a4dd6c0)
 - **Campaign Manager Certification** — *Issuer:* Google · [Google Skillshop](https://skillshop.exceedlms.com/student/award/42384784)
 - **Shopping Ads Certification** — *Issuer:* Google · [Google Skillshop](https://skillshop.exceedlms.com/student/award/43404365)
 - **Advanced Google Analytics** — *Issuer:* Google · [Google Analytics Academy](https://analytics.google.com/analytics/academy/certificate/b02mBlHESQ6JHPluSWqcKg)
