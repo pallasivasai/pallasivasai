@@ -458,6 +458,22 @@ Research on a lightweight DDoS detection method using a compact feature set, inc
 - 🧪 [Open the reproducible Colab demo](https://colab.research.google.com/drive/1W6Cgkg5j_ZdeQ7UbE_NLP81VeiIA6B3v?usp=sharing)
 - 🆔 DOI: `10.13140/RG.2.2.28578.08648`
 
+### **A 24-Hour Time-Bound Wrong Payment Recovery Framework for Secure Digital Banking Transactions**
+
+**September 2026 · Research Proposal · Independent Researcher**
+
+A proposed architecture for structured recovery of wrong digital payments within a **24-hour reporting window**. The framework explores **transaction verification, recipient-fund restriction, negative-balance recovery, outgoing transaction controls, future-credit recovery, database-level controls, audit logging, and transaction consistency**.
+
+- ⏱️ **Recovery window:** Proposed 24-hour reporting/recovery framework
+- 🔐 **Security & control areas:** Transaction verification, recipient-fund restriction, outgoing transaction controls, authentication/verification, database controls, and audit logging
+- 💳 **Recovery paths:** Negative-balance recovery and future-credit recovery are explored as part of the proposed framework
+- 🧪 **SAI Bank prototype:** The current prototype demonstrates a **30-minute wrong-payment reversal workflow**, while the research proposal explores extending the concept to a broader 24-hour framework
+- 📄 [Read the research paper on ResearchGate](https://www.researchgate.net/publication/414356347_A_24-Hour_Time-Bound_Wrong_Payment_Recovery_Framework_for_Secure_Digital_Banking_Transactions_P_Siva_Sai_Independent_Researcher_A_Proposed_Architecture_for_Transaction_Reversal_Negative-Balance_Recove)
+- 🆔 **DOI:** [10.13140/RG.2.2.20508.24960](https://doi.org/10.13140/RG.2.2.20508.24960)
+
+---
+---
+
 ### **AI-Based Secure Forgot Password System with DDoS Attack Detection and Prevention**
 
 **September 2026 · Research Article**
