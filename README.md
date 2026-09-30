@@ -592,7 +592,7 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 | Data & Cloud | MySQL, Supabase, AWS, Google Cloud, Docker, Kubernetes |
 | AI & Security | Machine Learning, TensorFlow, OpenCV, Cryptography, Cybersecurity |
 
-> **Dashboard troubleshooting:** The old `github-readme-stats` and `github-profile-trophy` cards often fail on shared public Vercel deployments (timeouts/rate limits), and GitHub's image proxy can keep a failed response cached for a while. The original Markdown URLs were syntactically valid, so intermittent provider uptime, API limits, or proxy caching is the most likely cause rather than a README syntax error.
+
 
 ---
 
