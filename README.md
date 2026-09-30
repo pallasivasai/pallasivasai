@@ -251,38 +251,39 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 | **⚛️ React / TypeScript** | [SAI-GPT](https://github.com/pallasivasai/sai-gpt) · [SAIBANK](https://github.com/pallasivasai/saibank) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) · [Recipe Ideas App](https://github.com/pallasivasai/Recipe-Ideas-App) · [Book Finder](https://github.com/pallasivasai/Book-Finder-Application-for-College-Students) |
 | **🐍 Python** | [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) · [SAI Encryption-Decryption](https://github.com/pallasivasai/SAI-Encryption-Decryption-Algorithm) · [SAI Game](https://github.com/pallasivasai/My_own_game) · [SAI Search Algorithm](https://github.com/pallasivasai/Searching_Algorithm_By_Me) · [Password Cracker](https://github.com/pallasivasai/Password-Cracker) |
 | **🗄️ SQL / MySQL / Database** | [SAIBANK](https://github.com/pallasivasai/saibank) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) · [Vote Management System](https://github.com/pallasivasai/votesystem) |
-| **⚙️ Backend / APIs** | [SAIBANK](https://github.com/pallasivasai/saibank) · [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
-| **🔐 Cybersecurity** | [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) · [SAI Encryption-Decryption](https://github.com/pallasivasai/SAI-Encryption-Decryption-Algorithm) · [Password Cracker](https://github.com/pallasivasai/Password-Cracker) · [Cyber Awareness Quiz](https://github.com/pallasivasai/s-quiz) · [Instagram Phishing Attack](https://github.com/Psivasai970/Psivasai970.github.io) |
-| **🤖 AI / Machine Learning** | [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) · [SAI-GPT](https://github.com/pallasivasai/sai-gpt) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) |
+| **🔐 Cybersecurity / Cryptography** | [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) · [SAI Encryption-Decryption](https://github.com/pallasivasai/SAI-Encryption-Decryption-Algorithm) · [SAI Search Algorithm](https://github.com/pallasivasai/Searching_Algorithm_By_Me) · [Password Cracker](https://github.com/pallasivasai/Password-Cracker) · [Instagram Phishing Attack](https://github.com/Psivasai970/Psivasai970.github.io) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
 | **🌐 HTML / CSS / JavaScript** | [Cyber Awareness Quiz](https://github.com/pallasivasai/s-quiz) · [Instagram Phishing Attack](https://github.com/Psivasai970/Psivasai970.github.io) · [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) |
+| **🔌 API Integration** | [Instagram Phishing Attack](https://github.com/Psivasai970/Psivasai970.github.io) · [Book Finder](https://github.com/pallasivasai/Book-Finder-Application-for-College-Students) |
 | **🔒 Authentication / Security** | [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) · [SAIBANK](https://github.com/pallasivasai/saibank) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
-| **📡 Real-time / Messaging** | [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
-| **☁️ Cloud / Lovable Cloud** | [SAIBANK](https://github.com/pallasivasai/saibank) · [SAI-GPT](https://github.com/pallasivasai/sai-gpt) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
-| **📊 Data / Analytics** | [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) |
+| **📡 Real-time Messaging** | [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
+| **☁️ Lovable Cloud** | [SAI-GPT](https://github.com/pallasivasai/sai-gpt) · [SAIBANK](https://github.com/pallasivasai/saibank) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
+| **🧠 AI / Machine Learning** | [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) · [SAI-GPT](https://github.com/pallasivasai/sai-gpt) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) |
+| **🧩 Algorithms / Data Structures** | [SAI-Encryption-Decryption](https://github.com/pallasivasai/SAI-Encryption-Decryption-Algorithm) · [SAI Search Algorithm](https://github.com/pallasivasai/Searching_Algorithm_By_Me) · [SAI Game](https://github.com/pallasivasai/My_own_game) |
+| **🔐 Hash Algorithms / Brute Force** | [Password Cracker](https://github.com/pallasivasai/Password-Cracker) |
+| **🛡️ Fullscreen API / Cyber Education** | [Cyber Awareness Quiz](https://github.com/pallasivasai/s-quiz) |
+| **📊 Database Design / SQL Triggers** | [SAIBANK](https://github.com/pallasivasai/saibank) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [Vote Management System](https://github.com/pallasivasai/votesystem) |
 
 </div>
 
-> **Proof of skills:** The projects above show where the listed technologies are used in practical applications, rather than presenting the technologies only as standalone badges.
-
----
+> **Proof of skills:** These project mappings are synchronized with the technologies listed for the corresponding projects in the portfolio, showing where the skills are demonstrated in practical applications.
 
 ## 🚀 Featured Projects
 
 ### 🔐 [DDoS Attack Detection System (SAI Algorithm)](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning)
 
-A comprehensive machine learning solution for detecting Distributed Denial of Service (DDoS) attacks using the **SAI (Simple Anomaly Identifier)** algorithm with advanced data analysis techniques. The portfolio describes approximately 99% accuracy in threat detection.
+A comprehensive machine learning solution for detecting Distributed Denial of Service (DDoS) attacks using my own SAI algorithm with advanced data analysis techniques. Achieves approximately 99% accuracy in threat detection.
 
 **Technologies:** Python · Machine Learning · SAI Algorithm · Jupyter Notebook · Cybersecurity
 
 ### 🔒 [SAI-Encryption-Decryption Algorithm (Always O(1))](https://github.com/pallasivasai/SAI-Encryption-Decryption-Algorithm)
 
-An algorithm-design project focused on constant **O(1)** encryption and decryption operations for consistent performance across data sizes.
+A revolutionary encryption and decryption algorithm focused on constant O(1) time complexity for encryption and decryption operations.
 
 **Technologies:** Python · Cryptography · Algorithm Design · Data Security
 
 ### 🤖 [SAI-GPT](https://github.com/pallasivasai/sai-gpt)
 
-An AI-powered devotional assistant designed to help users explore Grandhas, spiritual texts, devotional questions, and knowledge about Hindu gods through a conversational interface.
+An AI-powered devotional assistant designed to help users explore Grandhas, spiritual texts, devotional questions, and knowledge about Hindu gods through a conversational AI interface.
 
 **Technologies:** TypeScript · React · AI · Lovable Cloud · Tailwind CSS
 
@@ -294,7 +295,7 @@ A math magic trick game demonstrating algebraic principles through an interactiv
 
 ### 🔍 [SAI Search Algorithm](https://github.com/pallasivasai/Searching_Algorithm_By_Me)
 
-A perfect hashing algorithm implementing a two-level universal hashing scheme with cryptographic security, SHA-256, collision-free data structures, **O(1)** lookup, and bidirectional key/value search.
+A perfect hashing algorithm using a two-level universal hashing scheme with cryptographic security, SHA-256, collision-free data structures, O(1) lookup, and bidirectional search.
 
 **Technologies:** Python · Algorithm Design · Data Structures · Cryptography
 
@@ -324,7 +325,7 @@ A private and secure chat application with password-protected inbox access, end-
 
 ### 🔓 [Password Cracker](https://github.com/pallasivasai/Password-Cracker)
 
-An educational Python-based password-cracking tool demonstrating brute-force, dictionary, and hash-cracking methodologies, with customizable character sets, wordlists, and support for MD5, SHA-1, and SHA-256.
+An educational Python-based password-cracking tool demonstrating brute-force, dictionary, and hash-cracking methodologies, with support for MD5, SHA-1, and SHA-256.
 
 **Technologies:** Python · Cybersecurity · Hash Algorithms · Brute Force · Educational
 
@@ -342,13 +343,13 @@ An educational demonstration of phishing attack techniques for cybersecurity awa
 
 ### 🔑 [Authentication System with Database](https://github.com/pallasivasai/Signup-login-system-with-working-data-base)
 
-A complete signup and login system with working database integration, authentication, and session-management functionality.
+A complete signup and login system with working database integration, secure user authentication, and session management.
 
 **Technologies:** HTML · PHP · MySQL · Authentication
 
 ### 🗳️ [Vote Management System](https://github.com/pallasivasai/votesystem)
 
-A PHP-based voting system for managing elections and polls with database-driven functionality.
+A voting system application built with PHP for managing elections and polls with database-driven functionality.
 
 **Technologies:** PHP · MySQL · Database Design
 
@@ -363,8 +364,6 @@ A modern web application for discovering and exploring recipe ideas with an intu
 A specialized application for college students to search, discover, and find books relevant to their courses and interests.
 
 **Technologies:** TypeScript · React · API Integration
-
----
 
 ## 🔬 Research & Publications
 
@@ -586,15 +585,11 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 
 | Area | Primary Technologies |
 |---|---|
-| Languages | Python, Java, JavaScript, TypeScript, PHP, SQL |
-| Frontend | HTML, CSS, React, Tailwind CSS |
-| Backend & APIs | Python, PHP, REST APIs, Authentication, Real-time Messaging |
-| Data & Cloud | MySQL, Supabase, AWS, Google Cloud, Docker, Kubernetes |
-| AI & Security | Machine Learning, TensorFlow, OpenCV, Cryptography, Cybersecurity |
-
-
-
----
+| Frontend | HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Responsive UI / Fullscreen API |
+| Backend & Integration | Python, PHP, Java, Lovable Cloud / Supabase, REST & GitHub API Integration, Authentication & Sessions, Real-time Messaging |
+| Database & Automation | SQL, MySQL, DBMS & Schema Design, SQL Triggers & Automation |
+| AI & Security | Machine Learning (SAI Algorithm), Cryptography & Encryption, Cybersecurity & Ethical Hacking |
+| Algorithms & Tools | Algorithms & Data Structures, Git & GitHub |
 
 ## 🌐 Connect With Me
 
