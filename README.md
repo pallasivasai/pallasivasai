@@ -448,16 +448,6 @@ A unified authentication-recovery framework combining AI-assisted DDoS detection
 
 ## 🔬 Research & Publications
 
-### **SAI Algorithm: A Lightweight Real-Time DDoS Detection Algorithm**
-
-**December 2025 · ResearchGate**
-
-Research on a lightweight DDoS detection method using a compact feature set, including source packet rate, inter-arrival delay, and distinct-source ratios. The approach is designed for interpretable, low-latency detection on resource-constrained systems.
-
-- 📄 [Read the publication on ResearchGate](https://www.researchgate.net/publication/398484579_SAI_Algorithm_A_Lightweight_Real-Time_DDoS_Detection_Algorithm_Design_Implementation_and_Reproducible_Results_Colab_Demo)
-- 🧪 [Open the reproducible Colab demo](https://colab.research.google.com/drive/1W6Cgkg5j_ZdeQ7UbE_NLP81VeiIA6B3v?usp=sharing)
-- 🆔 DOI: `10.13140/RG.2.2.28578.08648`
-
 ### **A 24-Hour Time-Bound Wrong Payment Recovery Framework for Secure Digital Banking Transactions**
 
 **September 2026 · Research Proposal · Independent Researcher**
@@ -472,6 +462,16 @@ A proposed architecture for structured recovery of wrong digital payments within
 - 🆔 **DOI:** [10.13140/RG.2.2.20508.24960](https://doi.org/10.13140/RG.2.2.20508.24960)
 
 ---
+### **SAI Algorithm: A Lightweight Real-Time DDoS Detection Algorithm**
+
+**December 2025 · ResearchGate**
+
+Research on a lightweight DDoS detection method using a compact feature set, including source packet rate, inter-arrival delay, and distinct-source ratios. The approach is designed for interpretable, low-latency detection on resource-constrained systems.
+
+- 📄 [Read the publication on ResearchGate](https://www.researchgate.net/publication/398484579_SAI_Algorithm_A_Lightweight_Real-Time_DDoS_Detection_Algorithm_Design_Implementation_and_Reproducible_Results_Colab_Demo)
+- 🧪 [Open the reproducible Colab demo](https://colab.research.google.com/drive/1W6Cgkg5j_ZdeQ7UbE_NLP81VeiIA6B3v?usp=sharing)
+- 🆔 DOI: `10.13140/RG.2.2.28578.08648`
+
 ---
 
 ### **AI-Based Secure Forgot Password System with DDoS Attack Detection and Prevention**
@@ -483,20 +483,6 @@ A unified authentication-recovery concept combining secure forgot-password workf
 - 📖 [Read the publication on ResearchGate](https://www.researchgate.net/publication/414205110_AI-Based_Secure_Forgot_Password_System_with_DDoS_Attack_Detection_and_Prevention)
 - 🆔 DOI: `10.13140/RG.2.2.11916.48006`
 
-### **A 24-Hour Time-Bound Wrong Payment Recovery Framework for Secure Digital Banking Transactions**
-
-**September 2026 · Research Proposal · Independent Researcher**
-
-A proposed architecture for structured recovery of wrong digital payments within a **24-hour reporting window**. The framework explores **transaction verification, recipient-fund restriction, negative-balance recovery, outgoing transaction controls, future-credit recovery, database-level controls, audit logging, and transaction consistency**.
-
-- ⏱️ **Recovery window:** Proposed 24-hour reporting/recovery framework
-- 🔐 **Security & control areas:** Transaction verification, recipient-fund restriction, outgoing transaction controls, authentication/verification, database controls, and audit logging
-- 💳 **Recovery paths:** Negative-balance recovery and future-credit recovery are explored as part of the proposed framework
-- 🧪 **SAI Bank prototype:** The current prototype demonstrates a **30-minute wrong-payment reversal workflow**, while the research proposal explores extending the concept to a broader 24-hour framework
-- 📄 [Read the research paper on ResearchGate](https://www.researchgate.net/publication/414356347_A_24-Hour_Time-Bound_Wrong_Payment_Recovery_Framework_for_Secure_Digital_Banking_Transactions_P_Siva_Sai_Independent_Researcher_A_Proposed_Architecture_for_Transaction_Reversal_Negative-Balance_Recove)
-- 🆔 **DOI:** [10.13140/RG.2.2.20508.24960](https://doi.org/10.13140/RG.2.2.20508.24960)
-
----
 ---
 
 ## 💼 Current Professional Experience
