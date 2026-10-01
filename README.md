@@ -704,7 +704,7 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pallasivasai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub profile trophies" width="96%" />
+<img src="https://raw.githubusercontent.com/pallasivasai/pallasivasai/output/github-trophies.svg" alt="GitHub profile trophies" width="96%" />
 
 </div>
 
@@ -712,7 +712,7 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pallasivasai&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Activity" alt="GitHub contribution activity graph" width="96%" />
+<img src="https://raw.githubusercontent.com/pallasivasai/pallasivasai/output/github-activity-graph.svg" alt="GitHub contribution activity graph" width="96%" />
 
 </div>
 
