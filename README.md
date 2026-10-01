@@ -718,13 +718,13 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/p-siva-sai-10686417a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/pallasivasai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.facebook.com/psivasaihacker143"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://instagram.com/p_siva_sai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.codechef.com/users/p_siva_sai"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 <a href="https://www.leetcode.com/P_siva_sai/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="https://auth.geeksforgeeks.org/user/psivasai/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-<a href="https://www.hackerrank.com/psivasai"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+<a href="https://www.hackerrank.com/profile/Psivasai"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 
 <br /><br />
 
