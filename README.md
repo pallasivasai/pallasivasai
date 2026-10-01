@@ -700,54 +700,7 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 
 </div>
 
-## 🏆 GitHub Achievements & Profile Highlights
 
-<div align="center">
-
-<a href="https://github.com/pallasivasai?tab=achievements">
-  <img src="https://img.shields.io/badge/GitHub-Achievements-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub achievements" />
-</a>
-
-<br /><br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallasivasai&theme=tokyonight&v=20261001" alt="GitHub profile details and contribution summary" width="96%" />
-
-</div>
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pallasivasai/pallasivasai/output/github-activity-graph.svg?v=20261001" alt="GitHub contribution activity graph" width="96%" />
-
-</div>
-
-## 🧰 Compact Skills Dashboard
-
-<div align="center">
-
-### 💻 Programming & Full-Stack
-
-<img src="https://skillicons.dev/icons?i=py,java,js,ts,php,html,css,react,vite,tailwind,nodejs&perline=11&theme=dark" alt="Programming and full-stack skills" />
-
-### 🗄️ Database, Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,gcp,azure,docker,git,github,linux,vscode&perline=10&theme=dark" alt="Database cloud and DevOps skills" />
-
-### 🤖 AI, Security & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=jupyter,tensorflow,opencv,sklearn,postman,githubactions&perline=6&theme=dark" alt="AI security and developer tools" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/DAX-1B4D3E?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX" />
-<img src="https://img.shields.io/badge/Splunk%20SOAR-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk SOAR" />
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-
-</div>
 
 ### Technology Snapshot
 
