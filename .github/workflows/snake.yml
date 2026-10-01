@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Update GitHub Profile Dashboards
 
 on:
   schedule:
@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/snake.yml"
+      - "README.md"
 
 permissions:
   contents: write
@@ -16,7 +17,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
+      - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: pallasivasai
@@ -24,7 +25,15 @@ jobs:
             dist/github-snake.svg?palette=github-light
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Publish snake animation
+      - name: Generate contribution activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: pallasivasai
+          options: theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Activity
+          output_path: dist/github-activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish dashboard images
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
