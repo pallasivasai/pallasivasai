@@ -1,0 +1,35 @@
+name: Update GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/trophy.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: pallasivasai
+          output_path: dist/github-trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: tokyonight
+
+      - name: Publish trophy SVG
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
