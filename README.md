@@ -686,6 +686,44 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pallasivasai/pallasivasai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pallasivasai/pallasivasai/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/pallasivasai/pallasivasai/output/github-snake.svg" alt="GitHub contribution snake animation" width="96%" />
+</picture>
+
+</div>
+
+## 🏆 GitHub Profile Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pallasivasai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub profile trophies" width="96%" />
+
+</div>
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pallasivasai&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Activity" alt="GitHub contribution activity graph" width="96%" />
+
+</div>
+
+## 🧰 Compact Skills Dashboard
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,html,css,react,vite,tailwind,nodejs,mysql,sqlite,supabase,gcp,azure,oracle,docker,git,github,linux,vscode,jupyter,tensorflow,opencv&perline=9&theme=dark" alt="Compact technology and skills dashboard" />
+
+</div>
+
 ### Technology Snapshot
 
 | Area | Primary Technologies |
