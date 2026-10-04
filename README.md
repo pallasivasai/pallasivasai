@@ -12,11 +12,11 @@
   <a href="https://www.hackerrank.com/profile/Psivasai"><img src="https://img.shields.io/badge/HackerRank-SQL%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=SQL+%26+Database+Development;MySQL+%7C+SQLite+%7C+Supabase;Database+Design+%7C+CRUD+%7C+SQL+Triggers;Transaction+Workflows+%7C+Data+Integrity;Building+Database-Driven+Applications" alt="Database-focused typing introduction" />
-
 <p>
-  <img src="https://komarev.com/ghpvc/?username=pallasivasai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pallasivasai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=SQL+%26+Database+Development;MySQL+%7C+SQLite+%7C+Supabase;Database+Design+%7C+CRUD+%7C+SQL+Triggers;Transaction+Workflows+%7C+Data+Integrity;Building+Database-Driven+Applications" alt="Database-focused typing introduction" />
 
 </div>
 
@@ -218,7 +218,7 @@ A proposed framework for structured recovery of wrong digital payments within a 
 | **SQL / Programming** | [HackerRank Profile](https://www.hackerrank.com/profile/Psivasai) |
 | **Database Foundations** | [Programming Foundations: Databases — LinkedIn Learning](https://www.linkedin.com/learning/certificates/57739215cd67967eb08d8349d4952bcd982bdda006aefd7d659ae960aa1846cc/?trk=backfilled_certificate) |
 | **Database Security** | [Network Security & Database Vulnerabilities — IBM](https://www.coursera.org/account/accomplishments/verify/5MW8KKXUHKG3) |
-| **Database Project Evidence** | SAIBANK · Sai CRUD Operations Lab · Authentication System · Vote Management System · HR Workforce System |
+| **Database Project Evidence** | [SAIBANK](https://github.com/pallasivasai/saibank) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) · [Vote Management System](https://github.com/pallasivasai/votesystem) · [HR Workforce System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System) |
 | **Transaction Research** | [24-Hour Wrong Payment Recovery Research](https://www.researchgate.net/publication/414356347_A_24-Hour_Time-Bound_Wrong_Payment_Recovery_Framework_for_Secure_Digital_Banking_Transactions_P_Siva_Sai_Independent_Researcher_A_Proposed_Architecture_for_Transaction_Reversal_Negative-Balance_Recove) |
 
 ---
