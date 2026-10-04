@@ -115,7 +115,25 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 
 > 🏆 **Cloud Learning & Recognition:** Hands-on learning and challenge participation across **Google Cloud (GCP)** and **Microsoft Azure**, with **goodies/rewards earned** through these programs.
 
-### 🤖 AI, Machine Learning & Security
+### 🤖 AI, LLM, Machine Learning & Security
+
+### 🧠 AI, LLM & RAG
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-5A67D8?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1F2937?style=for-the-badge&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-005571?style=for-the-badge&logo=meta&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-Embeddings-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+### 👁️ Computer Vision & Human-Computer Interaction
+
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand_Tracking-0F9D58?style=for-the-badge&logo=google&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-Windows_Input-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔐 Machine Learning & Security
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -223,6 +241,29 @@ I enjoy transforming ideas into useful applications, explaining technical concep
     </td>
     <td>Google Cloud (GCP) and Azure learning/challenge experience, plus cloud-hosted web applications and Streamlit deployments</td>
   </tr>
+
+  <tr>
+    <td><b>🧠 AI / LLM / RAG</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-7C3AED?style=flat-square" />
+      <img src="https://img.shields.io/badge/LLM-5A67D8?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1F2937?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/FAISS-Vector_Search-005571?style=flat-square" />
+      <img src="https://img.shields.io/badge/Hugging_Face-Embeddings-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+    </td>
+    <td>Knowledge-base creation, semantic retrieval, grounded generation, LLM integration and profile-aware RAG workflows</td>
+  </tr>
+  <tr>
+    <td><b>👁️ Computer Vision & HCI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/MediaPipe-0F9D58?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td>Hand tracking, gesture recognition, computer-vision interaction and programmable touch-free input</td>
+  </tr>
+
   <tr>
     <td><b>🧰 Development Tools</b></td>
     <td>
@@ -253,6 +294,25 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 > **Project-proven capability:** Frontend UI, Python/PHP application logic, REST/API integration, SQL/database workflows, cloud-hosted applications, AI/ML, analytics and cybersecurity.
 
 </div>
+
+---
+
+## 🤖 AI & Intelligent Systems
+
+
+
+### 🤖 [SAI-RAG — Retrieval-Augmented Generation & LLM Application](https://github.com/pallasivasai/SAI-RAG)
+
+**Python · Streamlit · RAG · LLM · LangChain · FAISS · Hugging Face Embeddings · Gemini · Semantic Search**
+
+A RAG-powered AI application that builds a custom knowledge base from CSV data, creates vector embeddings, retrieves the top relevant documents with FAISS, and uses Gemini for grounded answer generation. It also includes deterministic FAQ matching, candidate-profile-aware retrieval, caching, and automatic vector-store refresh.
+
+### 🖐️ [S-Mouse — Computer Vision Gesture-Controlled Interface](https://github.com/pallasivasai/S-Mouse)
+
+**Python · OpenCV · MediaPipe · PyAutoGUI · Computer Vision · Hand Tracking · Gesture Recognition · HCI**
+
+A webcam-based human-computer interaction project that converts hand landmarks and gestures into Windows cursor control, click, drag, right-click, scrolling, application switching, and programmable custom actions. It explores a practical path toward touch-free and gesture-driven interfaces.
+
 
 ---
 
