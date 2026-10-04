@@ -2,23 +2,17 @@
 
 # 👋 Hi, I'm **Palla Siva Sai**
 
-### Database-First Software Developer • SQL & Backend Engineer • Full-Stack Builder
+### 🗄️ SQL & Database Developer • Database-First Software Developer
 
 <p>
   <a href="https://pallasivasai.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:imsivasai01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/pallasivasai/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/pallasivasai"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.skills.google/public_profiles/79b60659-bb15-42dd-852a-9ba427a0158c"><img src="https://img.shields.io/badge/Google%20Cloud%20Skills-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills" /></a>
-  <a href="https://www.hackerrank.com/profile/Psivasai"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
-  <a href="https://tryhackme.com/p/psivasai"><img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-  <a href="https://www.salesforce.com/trailblazer/pssai"><img src="https://img.shields.io/badge/Salesforce%20Trailblazer-Profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Trailblazer" /></a>
-  <a href="https://www.coursera.org/user/8060386efadd322754c7edd16383b43d"><img src="https://img.shields.io/badge/Coursera-Profile-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" /></a>
-  <a href="https://about.me/psivasai"><img src="https://img.shields.io/badge/About.me-Profile-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About.me" /></a>
-  <a href="https://linktr.ee/psivasai"><img src="https://img.shields.io/badge/Linktree-Profile-39E09B?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" /></a>
+  <a href="https://www.hackerrank.com/profile/Psivasai"><img src="https://img.shields.io/badge/HackerRank-SQL%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=A+24-Hour+Time-Bound+Wrong+Payment+Recovery+Framework+for+Secure+Digital+Banking+Transactions;Building+practical+software+solutions;Exploring+cloud%2C+AI%2C+databases+and+security;Researching+lightweight+DDoS+detection" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=SQL+%26+Database+Development;MySQL+%7C+SQLite+%7C+Supabase;Database+Design+%7C+CRUD+%7C+SQL+Triggers;Transaction+Workflows+%7C+Data+Integrity;Building+Database-Driven+Applications" alt="Database-focused typing introduction" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=pallasivasai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -28,544 +22,216 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🗄️ Database Developer Profile
 
-I’m **Palla Siva Sai**, a database-first software developer focused on **SQL, database design, backend engineering, and full-stack application development**, with supporting interests in cloud technologies, artificial intelligence, and cybersecurity.
+I’m **Palla Siva Sai**, a **database-first software developer focused on SQL and database development**.
 
-I enjoy designing practical data-driven applications, building reliable database workflows, explaining technical concepts simply, and researching efficient solutions for real-world security problems.
+My primary career direction is **SQL / Database Developer and Junior Database Developer roles**. I build database-driven applications where the database is treated as a core part of the system rather than only a storage layer.
 
-- 🎓 **MCA** from **KL University** — **9.45 CGPA**
-- 💼 Working across freelance software development, recruitment, and engineering education
-- 🔐 Interested in cybersecurity, DDoS detection, cryptography, and ethical hacking
-- 🧩 Strong interest in web applications, SQL, database design, and problem solving
-- 📫 Email: **[imsivasai01@gmail.com](mailto:imsivasai01@gmail.com)**
-- 🌐 Portfolio: **[pallasivasai.lovable.app](https://pallasivasai.lovable.app/)**
-- 📄 Resume: **[View my resume](https://pallasivasai.lovable.app/resume)**
+My practical work covers **SQL, MySQL, SQLite, Supabase, DBMS concepts, schema design, CRUD operations, SQL triggers, transaction workflows, authentication with databases, data-driven applications, and reporting**.
+
+> **Career Target:** SQL Developer • Junior Database Developer • Database Developer • SQL / Backend Developer
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Database Focus
 
-<table>
-  <tr>
-    <td>🗄️ <b>Database Engineering</b><br/>SQL, MySQL, schema design, CRUD, triggers, transaction workflows, and data-driven systems</td>
-    <td>⚙️ <b>Backend & Full-Stack Development</b><br/>Building application logic, APIs, authentication workflows, dashboards, and practical web applications</td>
-  </tr>
-  <tr>
-    <td>📊 <b>Data & Analytics</b><br/>SQL-driven reporting, Pandas, Excel, Power BI, DAX, and business-focused data solutions</td>
-    <td>🤖🔐 <b>AI, RAG & Cybersecurity</b><br/>LLM/RAG applications, DDoS detection, cryptography, ethical hacking, and secure systems</td>
-  </tr>
-</table>
+| Area | What I Work With |
+|---|---|
+| 🗄️ **SQL & Database Development** | SQL, MySQL, SQLite, Supabase, DBMS, database-driven applications |
+| 🧩 **Database Design** | Schema design, tables, relationships, structured data models, data-driven workflows |
+| 🔄 **CRUD Operations** | Create, Read, Update, Delete workflows, dynamic forms, database-backed applications |
+| ⚡ **SQL Triggers & Automation** | Time-based transaction workflows, automated database actions, reversal workflows |
+| 💳 **Transactions & Data Workflows** | Transaction consistency, payment workflows, recovery logic, audit-oriented database controls |
+| 🔐 **Database-Backed Authentication** | MySQL authentication systems, sessions, user data and access workflows |
+| 📊 **Data & Reporting** | SQL-driven reporting, employee data, analytics, Excel/Pandas-based reporting |
+| ⚙️ **Database-Connected Applications** | PHP/MySQL, Python/SQLite, React/SQL applications, Supabase-backed systems |
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Database Technology Stack
 
-### 💻 Programming Languages
+### 🗄️ Core Database Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-Database%20Management-4479A1?style=for-the-badge)
+![SQL Triggers](https://img.shields.io/badge/SQL_Triggers-Automation-F29111?style=for-the-badge&logo=mysql&logoColor=white)
+![CRUD](https://img.shields.io/badge/CRUD-Operations-6C63FF?style=for-the-badge)
 
-### 🌐 Frontend Technologies
+### 🔌 Database Integration
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Responsive UI](https://img.shields.io/badge/Responsive_UI-4CAF50?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Integration
+**Database integration focus:** PHP + MySQL · Python + SQLite · React + SQL/Supabase · database-backed forms · authentication workflows · transaction-oriented application logic.
 
-![Python Backend](https://img.shields.io/badge/Python_Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP_Backend-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Authentication](https://img.shields.io/badge/Authentication_%26_Sessions-6C63FF?style=for-the-badge&logo=auth0&logoColor=white)
-![Real-time Messaging](https://img.shields.io/badge/Real--time_Messaging-FF6F00?style=for-the-badge&logo=socketdotio&logoColor=white)
+### 📊 Data & Reporting Support
 
-### 🗄️ Databases & Data
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS_%26_Schema_Design-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![SQL Triggers](https://img.shields.io/badge/SQL_Triggers_%26_Automation-F29111?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![ReportLab](https://img.shields.io/badge/ReportLab-0B5CAD?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### ☁️ Cloud & Deployment
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud_(GCP)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Lovable Cloud](https://img.shields.io/badge/Lovable_Cloud-FF4F8B?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-> 🏆 **Cloud Learning & Recognition:** Hands-on learning and challenge participation across **Google Cloud (GCP)** and **Microsoft Azure**, with **goodies/rewards earned** through these programs.
-
-### 🤖 AI, LLM, Machine Learning & Security
-
-### 🧠 AI, LLM & RAG
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-5A67D8?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1F2937?style=for-the-badge&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-005571?style=for-the-badge&logo=meta&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-Embeddings-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-### 👁️ Computer Vision & Human-Computer Interaction
-
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-27338E?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand_Tracking-0F9D58?style=for-the-badge&logo=google&logoColor=white)
-![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-Windows_Input-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🔐 Machine Learning & Security
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-1B4D3E?style=for-the-badge&logo=microsoft&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1F2937?style=for-the-badge&logo=protonvpn&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-B82020?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-6B21A8?style=for-the-badge&logo=letsencrypt&logoColor=white)
-
-### 🧰 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Trailhead](https://img.shields.io/badge/Trailhead-0176D3?style=for-the-badge&logo=salesforce&logoColor=white)
-![Trailblazer](https://img.shields.io/badge/Trailblazer-0D9DDA?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
 
-
-## 🧩 Full-Stack Technology Dashboard
+## 🧩 Database-First Architecture
 
 <div align="center">
 
-### 🗄️ Database → ⚙️ Backend → 🖥️ Frontend → ☁️ Cloud → 🤖 AI/Security
-
-> **Database-first approach:** I focus on how data is modeled, stored, secured, queried, and connected to application logic before presenting it through the UI.
-
-<table>
-  <tr>
-    <th>Layer</th>
-    <th>Technologies</th>
-    <th>What I Build</th>
-  </tr>
-  <tr>
-    <td><b>🗄️ Database & Data</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-    </td>
-    <td>Relational schema design, CRUD, SQL triggers, transaction workflows, analytics and reporting</td>
-  </tr>
-  <tr>
-    <td><b>🎨 Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-    </td>
-    <td>Responsive interfaces, dashboards, web apps, forms and interactive UI</td>
-  </tr>
-  <tr>
-    <td><b>⚙️ Backend & APIs</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
-    </td>
-    <td>Python/PHP application logic, REST/API integration, authentication and application workflows</td>
-  </tr>
-  <tr>
-    <td><b>🤖 AI & Machine Learning</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-      <img src="https://img.shields.io/badge/DAX-1B4D3E?style=flat-square&logo=microsoft&logoColor=white" />
-    </td>
-    <td>ML models, computer vision (OpenCV), anomaly detection, Power BI/DAX dashboards and intelligent applications</td>
-  </tr>
-  <tr>
-    <td><b>🔐 Cybersecurity</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Cybersecurity-1F2937?style=flat-square&logo=protonvpn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ethical_Hacking-B82020?style=flat-square&logo=kalilinux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cryptography-6B21A8?style=flat-square&logo=letsencrypt&logoColor=white" />
-      <img src="https://img.shields.io/badge/Splunk_SOAR-000000?style=flat-square&logo=splunk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-    </td>
-    <td>DDoS detection, secure authentication, encryption, API testing and security automation</td>
-  </tr>
-  <tr>
-    <td><b>☁️ Cloud & DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google_Cloud_(GCP)-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-      <img src="https://img.shields.io/badge/Lovable_Cloud-FF4F8B?style=flat-square&logo=cloudflare&logoColor=white" />
-      <img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-      <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
-    </td>
-    <td>Google Cloud (GCP) and Azure learning/challenge experience, plus cloud-hosted web applications and Streamlit deployments</td>
-  </tr>
-
-  <tr>
-    <td><b>🧠 AI / LLM / RAG</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-7C3AED?style=flat-square" />
-      <img src="https://img.shields.io/badge/LLM-5A67D8?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1F2937?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/FAISS-Vector_Search-005571?style=flat-square" />
-      <img src="https://img.shields.io/badge/Hugging_Face-Embeddings-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-    </td>
-    <td>Knowledge-base creation, semantic retrieval, grounded generation, LLM integration and profile-aware RAG workflows</td>
-  </tr>
-  <tr>
-    <td><b>👁️ Computer Vision & HCI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/MediaPipe-0F9D58?style=flat-square&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-    <td>Hand tracking, gesture recognition, computer-vision interaction and programmable touch-free input</td>
-  </tr>
-
-  <tr>
-    <td><b>🧰 Development Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-    </td>
-    <td>Version control, development, testing and notebooks</td>
-  </tr>
-</table>
-
-### 🔄 Full-Stack Flow
-
-<table>
-  <tr>
-    <td align="center"><b>🎨 UI</b><br/>React · HTML · CSS · JS/TS · Tailwind</td>
-    <td align="center">→</td>
-    <td align="center"><b>⚙️ API</b><br/>Python · PHP · REST APIs</td>
-    <td align="center">→</td>
-    <td align="center"><b>🗄️ Data</b><br/>MySQL · SQLite · Supabase · SQL · Pandas</td>
-    <td align="center">→</td>
-    <td align="center"><b>☁️ Cloud</b><br/>GCP · Azure · Lovable Cloud · Streamlit Cloud</td>
-  </tr>
-</table>
-
-> **Project-proven capability:** Frontend UI, Python/PHP application logic, REST/API integration, SQL/database workflows, cloud-hosted applications, AI/ML, analytics and cybersecurity.
+### 🗄️ Data Model → 🧱 Schema → 🔄 SQL/CRUD → ⚡ Database Logic → ⚙️ Application → 📊 Reports
 
 </div>
 
----
+My database-first approach starts by understanding **what data the system needs, how that data should be structured, how application operations interact with it, and how database logic can enforce reliable workflows**.
 
-## 🤖 AI & Intelligent Systems
-
-
-
-### 🤖 [SAI-RAG — Retrieval-Augmented Generation & LLM Application](https://github.com/pallasivasai/SAI-RAG)
-
-**Python · Streamlit · RAG · LLM · LangChain · FAISS · Hugging Face Embeddings · Gemini · Semantic Search**
-
-A RAG-powered AI application that builds a custom knowledge base from CSV data, creates vector embeddings, retrieves the top relevant documents with FAISS, and uses Gemini for grounded answer generation. It also includes deterministic FAQ matching, candidate-profile-aware retrieval, caching, and automatic vector-store refresh.
-
-### 🖐️ [S-Mouse — Computer Vision Gesture-Controlled Interface](https://github.com/pallasivasai/S-Mouse)
-
-**Python · OpenCV · MediaPipe · PyAutoGUI · Computer Vision · Hand Tracking · Gesture Recognition · HCI**
-
-A webcam-based human-computer interaction project that converts hand landmarks and gestures into Windows cursor control, click, drag, right-click, scrolling, application switching, and programmable custom actions. It explores a practical path toward touch-free and gesture-driven interfaces.
-
+| Layer | Database-Focused Work |
+|---|---|
+| 🧱 **Data Model** | Identify entities, fields and relationships required by the application |
+| 🗄️ **Schema** | Design database tables and structured data storage |
+| 🔄 **SQL Operations** | CRUD operations and SQL-driven application workflows |
+| ⚡ **Database Logic** | SQL triggers and automated transaction workflows |
+| 🔐 **Data Controls** | Authentication, transaction controls and audit-oriented workflows |
+| 📊 **Reporting** | Extract and present database-driven information for analysis |
 
 ---
 
-## 🧠 Technology → Project Map
+## 🗺️ Database Technology → Project Map
 
-<div align="center">
-
-| Technology / Skill | Projects where it is demonstrated |
+| Database Skill | Project Evidence |
 |---|---|
-| **⚛️ React / TypeScript** | [SAI-GPT](https://github.com/pallasivasai/sai-gpt) · [SAIBANK](https://github.com/pallasivasai/saibank) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) · [Recipe Ideas App](https://github.com/pallasivasai/Recipe-Ideas-App) · [Book Finder](https://github.com/pallasivasai/Book-Finder-Application-for-College-Students) |
-| **🐍 Python** | [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) · [SAI Encryption-Decryption](https://github.com/pallasivasai/SAI-Encryption-Decryption-Algorithm) · [SAI Game](https://github.com/pallasivasai/My_own_game) · [SAI Search Algorithm](https://github.com/pallasivasai/Searching_Algorithm_By_Me) · [Password Cracker](https://github.com/pallasivasai/Password-Cracker) · [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System) · [Marketing & Sales Dashboard](https://github.com/pallasivasai/marketing-sales-dashboard-New) |
-| **🗄️ SQL / MySQL / SQLite / Database** | [SAIBANK](https://github.com/pallasivasai/saibank) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) · [Vote Management System](https://github.com/pallasivasai/votesystem) · [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System) |
-| **🔐 Cybersecurity / Cryptography** | [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) · [SAI Encryption-Decryption](https://github.com/pallasivasai/SAI-Encryption-Decryption-Algorithm) · [SAI Search Algorithm](https://github.com/pallasivasai/Searching_Algorithm_By_Me) · [Password Cracker](https://github.com/pallasivasai/Password-Cracker) · [Instagram Phishing Attack](https://github.com/Psivasai970/Psivasai970.github.io) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
-| **🌐 HTML / CSS / JavaScript** | [Cyber Awareness Quiz](https://github.com/pallasivasai/s-quiz) · [Instagram Phishing Attack](https://github.com/Psivasai970/Psivasai970.github.io) · [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) |
-| **🔌 API Integration** | [Instagram Phishing Attack](https://github.com/Psivasai970/Psivasai970.github.io) · [Book Finder](https://github.com/pallasivasai/Book-Finder-Application-for-College-Students) |
-| **🔒 Authentication / Security** | [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) · [SAIBANK](https://github.com/pallasivasai/saibank) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) · [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System) · [Marketing & Sales Dashboard](https://github.com/pallasivasai/marketing-sales-dashboard-New) |
-| **📡 Real-time Messaging** | [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
-| **☁️ Lovable Cloud / Supabase** | [SAI-GPT](https://github.com/pallasivasai/sai-gpt) · [SAIBANK](https://github.com/pallasivasai/saibank) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) · [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [S-Secret Chat](https://github.com/pallasivasai/sai-web) |
-| **🧠 AI / Machine Learning** | [DDoS Attack Detection](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning) · [SAI-GPT](https://github.com/pallasivasai/sai-gpt) · [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai) |
-| **🧩 Algorithms / Data Structures** | [SAI-Encryption-Decryption](https://github.com/pallasivasai/SAI-Encryption-Decryption-Algorithm) · [SAI Search Algorithm](https://github.com/pallasivasai/Searching_Algorithm_By_Me) · [SAI Game](https://github.com/pallasivasai/My_own_game) |
-| **🔐 Hash Algorithms / Brute Force** | [Password Cracker](https://github.com/pallasivasai/Password-Cracker) |
-| **🛡️ Fullscreen API / Cyber Education** | [Cyber Awareness Quiz](https://github.com/pallasivasai/s-quiz) |
-| **📊 Database Design / SQL Triggers** | [SAIBANK](https://github.com/pallasivasai/saibank) · [Vote Management System](https://github.com/pallasivasai/votesystem) |
+| **🗄️ SQL / MySQL** | [SAIBANK](https://github.com/pallasivasai/saibank) · [Authentication System](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) · [Vote Management System](https://github.com/pallasivasai/votesystem) |
+| **⚡ SQL Triggers** | [SAIBANK](https://github.com/pallasivasai/saibank) |
+| **🔄 CRUD Operations** | [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) |
+| **🧱 Database / Schema Design** | [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop) · [Vote Management System](https://github.com/pallasivasai/votesystem) |
+| **🗃️ SQLite / SQL** | [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System) |
+| **🔐 MySQL Authentication** | [Authentication System with Database](https://github.com/pallasivasai/Signup-login-system-with-working-data-base) |
+| **🗳️ Database-Driven Workflows** | [Vote Management System](https://github.com/pallasivasai/votesystem) |
+| **💳 Transaction & Recovery Database Controls** | [SAIBANK](https://github.com/pallasivasai/saibank) · [24-Hour Wrong Payment Recovery Research](https://www.researchgate.net/publication/414356347_A_24-Hour_Time-Bound_Wrong_Payment_Recovery_Framework_for_Secure_Digital_Banking_Transactions_P_Siva_Sai_Independent_Researcher_A_Proposed_Architecture_for_Transaction_Reversal_Negative-Balance_Recove) |
 
-</div>
+---
 
-> **Proof of skills:** Project mappings are aligned to the portfolio's project stack and cross-checked against the corresponding GitHub repositories where repository-level technology details are available.
+## 🚀 Core Database Projects
 
-### 🧾 Proof of Skills & External Recognition
+### 🏦 [SAIBANK — SQL Triggers & Transaction Workflows](https://github.com/pallasivasai/saibank)
 
-| Skill / Area | Proof / Credential |
-|---|---|
-| **☁️ Google Cloud (GCP)** | [GCP Profile / Proof](https://lnkd.in/p/eqmQNkwB) · Hands-on learning/challenge participation with **goodies/rewards earned** |
-| **☁️ Microsoft Azure** | Hands-on learning/challenge participation with **goodies/rewards earned** |
-| **🎓 Google Certified Educator Level 1** | [Google for Education Credential](https://edu.google.accredible.com/ee2c1da0-174a-4bcd-a0d3-9cf8c4817fb7) |
-| **📣 Google Ads Display Certification** | [Google Skillshop Credential](https://skillshop.credential.net/e0452442-5cdd-4033-9493-b0099a4dd6c0) |
-| **💻 HackerRank** | [HackerRank Profile](https://www.hackerrank.com/profile/Psivasai) · [Java Certificate](https://www.hackerrank.com/certificates/736758bf6670) · [SQL Certificate](https://www.hackerrank.com/certificates/e3aeb91bac39) · [Python Certificate](https://www.hackerrank.com/certificates/c4ab3ed43ee6) |
-| **🔬 Wrong Payment Recovery Research** | [ResearchGate Paper](https://www.researchgate.net/publication/414356347_A_24-Hour_Time-Bound_Wrong_Payment_Recovery_Framework_for_Secure_Digital_Banking_Transactions_P_Siva_Sai_Independent_Researcher_A_Proposed_Architecture_for_Transaction_Reversal_Negative-Balance_Recove) · [DOI: 10.13140/RG.2.2.20508.24960](https://doi.org/10.13140/RG.2.2.20508.24960) |
+A banking system featuring a **30-minute payment reversal mechanism using SQL triggers** for time-based transaction monitoring and rollback.
 
+**Database:** MySQL · SQL Triggers  
+**Database Focus:** Transaction workflows · time-based reversal · rollback logic · payment data
 
-## 🚀 Featured Projects
+**Why it matters for database roles:** Demonstrates practical use of **SQL triggers and database-level transaction logic** rather than only basic CRUD.
 
-### 🔐 [DDoS Attack Detection System (SAI Algorithm)](https://github.com/pallasivasai/Comprehensive-Approach-to-Detecting-DDoS-Attacks-using-Machine-Learning)
-
-A comprehensive machine learning solution for detecting Distributed Denial of Service (DDoS) attacks using my own SAI algorithm with advanced data analysis techniques. Achieves approximately 99% accuracy in threat detection.
-
-**Frontend:** Not applicable · **Backend / Server:** Python · **Database:** Dataset / data processing · **Cloud / Hosting:** Not specified
-
-**Technologies:** Python · Machine Learning · SAI Algorithm · Jupyter Notebook · Cybersecurity
-
-### 🔒 [SAI-Encryption-Decryption Algorithm (Always O(1))](https://github.com/pallasivasai/SAI-Encryption-Decryption-Algorithm)
-
-A revolutionary encryption and decryption algorithm focused on constant O(1) time complexity for encryption and decryption operations.
-
-**Frontend:** Not applicable · **Backend / Server:** Python · **Database:** Not applicable · **Cloud / Hosting:** Not specified
-
-**Technologies:** Python · Cryptography · Algorithm Design · Data Security
-
-### 🤖 [SAI-GPT](https://github.com/pallasivasai/sai-gpt)
-
-An AI-powered devotional assistant designed to help users explore Grandhas, spiritual texts, devotional questions, and knowledge about Hindu gods through a conversational AI interface.
-
-**Frontend:** React · TypeScript · Tailwind CSS · **Backend / Server:** AI application logic · **Database:** Not specified · **Cloud / Hosting:** Lovable Cloud
-
-**Technologies:** TypeScript · React · AI · Lovable Cloud · Tailwind CSS
-
-### 🎮 [SAI Game](https://github.com/pallasivasai/My_own_game)
-
-A math magic trick game demonstrating algebraic principles through an interactive sequence of arithmetic operations and number prediction.
-
-**Frontend:** Not applicable · **Backend / Server:** Python · **Database:** Not applicable · **Cloud / Hosting:** Not specified
-
-**Technologies:** Python · Game Development · Jupyter Notebook
-
-### 🔍 [SAI Search Algorithm](https://github.com/pallasivasai/Searching_Algorithm_By_Me)
-
-A perfect hashing algorithm using a two-level universal hashing scheme with cryptographic security, SHA-256, collision-free data structures, O(1) lookup, and bidirectional search.
-
-**Frontend:** Not applicable · **Backend / Server:** Python · **Database:** In-memory / algorithmic data structures · **Cloud / Hosting:** Not specified
-
-**Technologies:** Python · Algorithm Design · Data Structures · Cryptography
-
-### 🏦 [SAIBANK](https://github.com/pallasivasai/saibank)
-
-A banking system featuring a 30-minute payment reversal mechanism using SQL triggers for time-based transaction monitoring and rollback.
-
-**Frontend:** React · TypeScript · Tailwind CSS · **Backend / Server:** Lovable Cloud · **Database:** MySQL · SQL Triggers · **Cloud / Hosting:** Lovable Cloud
-
-**Technologies:** SQL Triggers · Database · MySQL · TypeScript · React · Tailwind CSS · Lovable Cloud
-
-### 📈 [SIVA Trade AI](https://github.com/pallasivasai/siva-trade-ai)
-
-An AI-powered trading assistant built for Telugu-speaking users that provides potential entry levels, target prices, stop-loss recommendations, confidence scores, supporting reasons, and risk warnings.
-
-**Frontend:** React · TypeScript · Tailwind CSS · **Backend / Server:** AI application logic · **Database:** Not specified · **Cloud / Hosting:** Lovable Cloud
-
-**Technologies:** TypeScript · React · AI · Lovable Cloud · Tailwind CSS · Trading Analysis
-
-### 👥 [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System)
-
-A database-driven HR management and analytics application combining employee management, performance, attendance, goals, leave management, Employee 360, employee self-service, and HR reporting.
-
-**Frontend:** Streamlit · **Backend / Server:** Python · **Database:** SQLite · SQL · **Cloud / Hosting:** Streamlit Cloud
-
-**Technologies:** Python · Streamlit · SQLite · SQL · Pandas · OpenPyXL · ReportLab · Excel · GitHub
-
-### 📊 [Marketing & Sales Dashboard](https://github.com/pallasivasai/marketing-sales-dashboard-New)
-
-An interactive sales and employee-performance analytics dashboard for target-vs-actual analysis, employee achievement, customer analytics, brand-wise sales, rankings, and downloadable performance reports.
-
-**Frontend:** Streamlit · **Backend / Server:** Python · **Database:** Excel workbook / Pandas data processing · **Cloud / Hosting:** Streamlit Cloud
-
-**Technologies:** Python · Streamlit · Pandas · Excel · OpenPyXL · ReportLab · Business Analytics · GitHub · Streamlit Cloud
+---
 
 ### 🗄️ [Sai CRUD Operations Lab](https://github.com/pallasivasai/sai-crudop)
 
-An interactive Telugu learning lab for database CRUD operations. Users can define their own fields, generate forms and tables, and visualize how data moves from the browser to the database along with the SQL query being executed.
+An interactive Telugu learning lab for database CRUD operations. Users can define fields, generate forms and tables, and visualize how data moves from the browser to the database along with the SQL query being executed.
 
-**Frontend:** React · TypeScript · Tailwind CSS · **Backend / Server:** Lovable Cloud · **Database:** SQL · **Cloud / Hosting:** Lovable Cloud
+**Database:** SQL · Supabase / database-backed application  
+**Database Focus:** CRUD · schema-driven forms · SQL operations · database workflow visualization
 
-**Technologies:** TypeScript · React · SQL · Database · Education · Telugu Learning · Tailwind CSS · Lovable Cloud
+**Why it matters for database roles:** Demonstrates the complete flow from **application input → SQL operation → database → displayed result**.
 
-### 💬 [S-Secret Chat](https://github.com/pallasivasai/sai-web)
-
-A private and secure chat application with password-protected inbox access, end-to-end encryption, and real-time messaging.
-
-**Frontend:** React · TypeScript · Tailwind CSS · **Backend / Server:** Lovable Cloud · Real-time Messaging · **Database:** Not specified · **Cloud / Hosting:** Lovable Cloud
-
-**Technologies:** TypeScript · React · End-to-End Encryption · Lovable Cloud · Tailwind CSS · Real-time Messaging
-
-### 🔓 [Password Cracker](https://github.com/pallasivasai/Password-Cracker)
-
-An educational Python-based password-cracking tool demonstrating brute-force, dictionary, and hash-cracking methodologies, with support for MD5, SHA-1, and SHA-256.
-
-**Frontend:** Not applicable · **Backend / Server:** Python · **Database:** Wordlists / hash data · **Cloud / Hosting:** Not specified
-
-**Technologies:** Python · Cybersecurity · Hash Algorithms · Brute Force · Educational
-
-### 🛡️ [Cyber Awareness Quiz By P Siva Sai](https://github.com/pallasivasai/s-quiz)
-
-An interactive cybersecurity awareness quiz application with fullscreen enforcement, designed to educate users about cyber threats, safe online practices, and security best practices.
-
-**Frontend:** HTML · CSS · JavaScript · Fullscreen API · **Backend / Server:** Not specified · **Database:** Not specified · **Cloud / Hosting:** Not specified
-
-**Technologies:** JavaScript · HTML · CSS · Fullscreen API · Cybersecurity Education
-
-### 🎣 [Instagram Phishing Attack (Learning)](https://github.com/Psivasai970/Psivasai970.github.io)
-
-An educational demonstration of phishing attack techniques for cybersecurity awareness and ethical hacking learning, including GitHub API integration for data handling.
-
-**Frontend:** HTML · CSS · JavaScript · **Backend / Server:** GitHub API Integration · **Database:** GitHub repository data handling · **Cloud / Hosting:** GitHub Pages / GitHub
-
-**Technologies:** Security Research · Ethical Hacking · HTML · CSS · JavaScript · GitHub API
+---
 
 ### 🔑 [Authentication System with Database](https://github.com/pallasivasai/Signup-login-system-with-working-data-base)
 
-A complete signup and login system with working database integration, secure user authentication, and session management.
+A signup and login system with working database integration, user authentication and session management.
 
-**Frontend:** HTML · **Backend / Server:** PHP · Sessions · **Database:** MySQL · **Cloud / Hosting:** Not specified
+**Database:** MySQL  
+**Backend:** PHP · Sessions  
+**Database Focus:** User records · authentication data · database integration · session workflow
 
-**Technologies:** HTML · PHP · MySQL · Authentication
+**Why it matters for database roles:** Shows practical **PHP + MySQL integration** and database-backed authentication.
+
+---
 
 ### 🗳️ [Vote Management System](https://github.com/pallasivasai/votesystem)
 
 A voting system application built with PHP for managing elections and polls with database-driven functionality.
 
-**Frontend:** HTML / PHP · **Backend / Server:** PHP · **Database:** MySQL · **Cloud / Hosting:** Not specified
+**Database:** MySQL  
+**Backend:** PHP  
+**Database Focus:** Database design · voting records · database-driven application workflows
 
-**Technologies:** PHP · MySQL · Database Design
+**Why it matters for database roles:** Demonstrates a real-world application where **persistent relational data is central to the system workflow**.
 
-### 🍳 [Recipe Ideas App](https://github.com/pallasivasai/Recipe-Ideas-App)
+---
 
-A modern web application for discovering and exploring recipe ideas with an intuitive and responsive interface.
+### 👥 [HR Workforce Employee Performance Management System](https://github.com/pallasivasai/HR-Workforce-Employee-Performance-Management-System)
 
-**Frontend:** React · TypeScript · Tailwind CSS · **Backend / Server:** Not specified · **Database:** Not specified · **Cloud / Hosting:** Not specified
+A database-driven HR management and analytics application covering employee management, performance, attendance, goals, leave management, Employee 360, employee self-service and HR reporting.
 
-**Technologies:** TypeScript · React · Tailwind CSS
+**Database:** SQLite · SQL  
+**Backend:** Python  
+**Database Focus:** Employee data · attendance data · performance records · leave data · reporting
 
-### 📚 [Book Finder Application](https://github.com/pallasivasai/Book-Finder-Application-for-College-Students)
+**Why it matters for database roles:** Demonstrates a broader **SQL/SQLite data model used across multiple business workflows and reports**.
 
-A specialized application for college students to search, discover, and find books relevant to their courses and interests.
+---
 
-**Frontend:** React · TypeScript · **Backend / Server:** API Integration · **Database:** Not specified · **Cloud / Hosting:** Not specified
+## 🔬 Database & Transaction Research
 
-**Technologies:** TypeScript · React · API Integration
-
-
-A unified authentication-recovery framework combining AI-assisted DDoS detection and prevention with secure password recovery, behavior profiling, adaptive rate limiting, and time-bound reset tokens.
-
-**Frontend:** Not specified · **Backend / Server:** SAI Algorithm · Authentication / Recovery Logic · **Database:** Not specified · **Cloud / Hosting:** Not specified
-
-**Technologies:** AI · SAI Algorithm · Authentication · DDoS Prevention · Password Recovery · Account Security
-
-## 🔬 Research & Publications
-
-### **A 24-Hour Time-Bound Wrong Payment Recovery Framework for Secure Digital Banking Transactions**
+### 💳 A 24-Hour Time-Bound Wrong Payment Recovery Framework for Secure Digital Banking Transactions
 
 **September 2026 · Research Proposal · Independent Researcher**
 
-A proposed architecture for structured recovery of wrong digital payments within a **24-hour reporting window**. The framework explores **transaction verification, recipient-fund restriction, negative-balance recovery, outgoing transaction controls, future-credit recovery, database-level controls, audit logging, and transaction consistency**.
+A proposed framework for structured recovery of wrong digital payments within a **24-hour reporting window**. The research explores **database-level controls, transaction consistency, audit logging, transaction verification, recipient-fund restriction, outgoing transaction controls, negative-balance recovery and future-credit recovery**.
 
 - ⏱️ **Recovery window:** Proposed 24-hour reporting/recovery framework
-- 🔐 **Security & control areas:** Transaction verification, recipient-fund restriction, outgoing transaction controls, authentication/verification, database controls, and audit logging
-- 💳 **Recovery paths:** Negative-balance recovery and future-credit recovery are explored as part of the proposed framework
-- 🧪 **SAI Bank prototype:** The current prototype demonstrates a **30-minute wrong-payment reversal workflow**, while the research proposal explores extending the concept to a broader 24-hour framework
+- 🗄️ **Database focus:** Database controls, transaction consistency and audit logging
+- 💳 **Recovery workflows:** Negative-balance recovery and future-credit recovery
+- 🧪 **SAI Bank prototype:** Current prototype demonstrates a **30-minute wrong-payment reversal workflow**
 - 📄 [Read the research paper on ResearchGate](https://www.researchgate.net/publication/414356347_A_24-Hour_Time-Bound_Wrong_Payment_Recovery_Framework_for_Secure_Digital_Banking_Transactions_P_Siva_Sai_Independent_Researcher_A_Proposed_Architecture_for_Transaction_Reversal_Negative-Balance_Recove)
 - 🆔 **DOI:** [10.13140/RG.2.2.20508.24960](https://doi.org/10.13140/RG.2.2.20508.24960)
 
 ---
-### **SAI Algorithm: A Lightweight Real-Time DDoS Detection Algorithm**
 
-**December 2025 · ResearchGate**
+## 🧠 Database Skills Summary
 
-Research on a lightweight DDoS detection method using a compact feature set, including source packet rate, inter-arrival delay, and distinct-source ratios. The approach is designed for interpretable, low-latency detection on resource-constrained systems.
-
-- 📄 [Read the publication on ResearchGate](https://www.researchgate.net/publication/398484579_SAI_Algorithm_A_Lightweight_Real-Time_DDoS_Detection_Algorithm_Design_Implementation_and_Reproducible_Results_Colab_Demo)
-- 🧪 [Open the reproducible Colab demo](https://colab.research.google.com/drive/1W6Cgkg5j_ZdeQ7UbE_NLP81VeiIA6B3v?usp=sharing)
-- 🆔 DOI: `10.13140/RG.2.2.28578.08648`
-
----
-
-### **AI-Based Secure Forgot Password System with DDoS Attack Detection and Prevention**
-
-**September 2026 · Research Article**
-
-A unified authentication-recovery concept combining secure forgot-password workflows with AI-assisted DDoS detection and prevention techniques.
-
-- 📖 [Read the publication on ResearchGate](https://www.researchgate.net/publication/414205110_AI-Based_Secure_Forgot_Password_System_with_DDoS_Attack_Detection_and_Prevention)
-- 🆔 DOI: `10.13140/RG.2.2.11916.48006`
+| Category | Skills / Technologies |
+|---|---|
+| **SQL** | SQL, SQL-driven application workflows, CRUD |
+| **Databases** | MySQL, SQLite, Supabase |
+| **Database Management** | DBMS, schema design, structured relational data |
+| **Database Logic** | SQL triggers, automated database workflows |
+| **Transactions** | Transaction workflows, rollback/reversal concepts, transaction consistency |
+| **Application Integration** | PHP + MySQL, Python + SQLite, React + SQL/Supabase |
+| **Authentication Data** | MySQL-backed signup/login and session workflows |
+| **Business Data** | Employee, attendance, performance, leave and voting data |
+| **Reporting** | SQL/data-driven reporting with Pandas, Excel, Power BI and DAX |
+| **Research** | Database controls, audit logging and digital transaction recovery |
 
 ---
 
-## 💼 Current Professional Experience
+## 🏆 Database-Related Proof & Credentials
+
+| Skill / Credential | Evidence |
+|---|---|
+| **SQL** | [HackerRank SQL Certificate](https://www.hackerrank.com/certificates/e3aeb91bac39) |
+| **SQL / Programming** | [HackerRank Profile](https://www.hackerrank.com/profile/Psivasai) |
+| **Database Foundations** | [Programming Foundations: Databases — LinkedIn Learning](https://www.linkedin.com/learning/certificates/57739215cd67967eb08d8349d4952bcd982bdda006aefd7d659ae960aa1846cc/?trk=backfilled_certificate) |
+| **Database Security** | [Network Security & Database Vulnerabilities — IBM](https://www.coursera.org/account/accomplishments/verify/5MW8KKXUHKG3) |
+| **Database Project Evidence** | SAIBANK · Sai CRUD Operations Lab · Authentication System · Vote Management System · HR Workforce System |
+| **Transaction Research** | [24-Hour Wrong Payment Recovery Research](https://www.researchgate.net/publication/414356347_A_24-Hour_Time-Bound_Wrong_Payment_Recovery_Framework_for_Secure_Digital_Banking_Transactions_P_Siva_Sai_Independent_Researcher_A_Proposed_Architecture_for_Transaction_Reversal_Negative-Balance_Recove) |
+
+---
+
+## 💼 Professional Experience
 
 ### Freelance Software & Web Developer
 
 **Various Companies · Remote / India · February 2019 – Present**
 
-Developing websites and web applications, integrating databases, creating SQL and analytics dashboards, and helping clients improve accessibility, usability, and digital workflows.
+Developing websites and web applications with experience integrating databases, creating SQL-driven workflows and building data-oriented applications and dashboards.
 
-### Senior HR Recruiter
-
-**Believers HR · Remote · April 2026 – Present**
-
-Managing recruitment pipelines, candidate sourcing, interviews, client coordination, and hiring strategy.
-
-### Subject Matter Expert — Engineering
-
-**Chegg India · Remote · August 2025 – Present**
-
-Providing step-by-step engineering and computer-science explanations aligned with academic requirements.
+> **Database relevance:** Practical exposure to integrating application interfaces with persistent data and building database-backed workflows.
 
 ---
 
@@ -580,96 +246,83 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 
 ---
 
-## 🏅 Certifications & Credentials
-
-### ⭐ Key Technical Certifications
-
-- **Google Cybersecurity Certificate** — *Issuer:* Google / Coursera · [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/WHB7Q4JLJCK5)
-- **IBM Cybersecurity Analyst Professional Certificate** — *Issuer:* IBM / Coursera · [Credly](https://www.credly.com/badges/8d97e8d8-ac3a-4608-997b-3c7d85882f40)
-- **Ethical Hacking Essentials (EHE)** — *Issuer:* EC-Council · [EC-Council](https://codered.eccouncil.org/certificate/61e43ab5-4580-443a-a9a7-01515d1d65cb)
-- **Cybersecurity IT Fundamentals Specialization** — *Issuer:* Credly by Pearson · [Credly](https://www.credly.com/badges/126f8016-8ef7-43d0-b68c-65daefb0b152)
-- **DeepLearning.AI TensorFlow Developer** — *Issuer:* DeepLearning.AI · [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/URS7ZWCVZPF9)
-- **Machine Learning** — *Issuer:* Stanford University · [Coursera](https://www.coursera.org/account/accomplishments/verify/KHHE2UXKUQW8)
-- **Natural Language Processing in TensorFlow** — *Issuer:* DeepLearning.AI · [Coursera](https://www.coursera.org/account/accomplishments/verify/DSXSYBNQMGZT)
-- **Convolutional Neural Networks in TensorFlow** — *Issuer:* DeepLearning.AI · [Coursera](https://www.coursera.org/account/accomplishments/verify/Z4D38K93EAQY)
-- **Introduction to TensorFlow for AI, ML, and Deep Learning** — *Issuer:* DeepLearning.AI · [Coursera](https://www.coursera.org/account/accomplishments/verify/MY33JJM6L9PK)
-- **Cyber Threat Intelligence** — *Issuer:* IBM · [Coursera](https://www.coursera.org/account/accomplishments/certificate/MB6MNHUN3NUU)
-- **Penetration Testing, Incident Response and Forensics** — *Issuer:* IBM · [Coursera](https://www.coursera.org/account/accomplishments/verify/2CLXA6XPGBVP)
-- **Network Security & Database Vulnerabilities** — *Issuer:* IBM · [Coursera](https://www.coursera.org/account/accomplishments/verify/5MW8KKXUHKG3)
-- **Programming Foundations: Web Security** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/b2ffe02bab2f55347950b2fb7efc7544d35b0b0d6f790dd79fbd6ccb75cf893b/?trk=backfilled_certificate)
-- **Programming Foundations: Databases** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/57739215cd67967eb08d8349d4952bcd982bdda006aefd7d659ae960aa1846cc/?trk=backfilled_certificate)
-- **Succeeding in Web Development: Full Stack and Front End** — *Issuer:* LinkedIn Learning · [LinkedIn Learning](https://www.linkedin.com/learning/certificates/dfd59b118f9b69eeabf5ca90262b8556addeaa2f8968c147d6e6761dcbbbad1b/?trk=backfilled_certificate)
-
----
-
-📚 **All Certifications & Credentials:** [View the complete certification list](./certifications.md)
-
-
----
-## 📊 GitHub Dashboard
+## 📊 GitHub Database Portfolio
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallasivasai&theme=tokyonight" alt="GitHub profile statistics summary" width="48%" style="max-width: 100%; min-width: 280px;" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pallasivasai&theme=tokyonight" alt="Repository technology distribution by language" width="48%" style="max-width: 100%; min-width: 280px;" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallasivasai&theme=tokyonight" alt="GitHub profile statistics" width="48%" style="max-width: 100%; min-width: 280px;" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pallasivasai&theme=tokyonight" alt="Repository technology distribution" width="48%" style="max-width: 100%; min-width: 280px;" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=pallasivasai&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak statistics" width="96%" style="max-width: 900px;" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallasivasai&theme=tokyonight" alt="GitHub activity graph and profile details summary" width="96%" style="max-width: 980px;" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pallasivasai&theme=tokyonight" alt="Most committed technology distribution" width="48%" style="max-width: 100%; min-width: 280px;" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pallasivasai&theme=tokyonight&utcOffset=5.5" alt="Productive coding time summary" width="48%" style="max-width: 100%; min-width: 280px;" />
+<img src="https://streak-stats.demolab.com?user=pallasivasai&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" width="96%" style="max-width: 900px;" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pallasivasai/pallasivasai/output/github-snake-dark.svg?v=20261001" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pallasivasai/pallasivasai/output/github-snake.svg?v=20261001" />
-  <img src="https://raw.githubusercontent.com/pallasivasai/pallasivasai/output/github-snake.svg?v=20261001" alt="GitHub contribution snake animation" width="96%" />
+  <img src="https://raw.githubusercontent.com/pallasivasai/pallasivasai/output/github-snake.svg?v=20261001" alt="GitHub contribution activity" width="96%" />
 </picture>
 
 </div>
 
+---
 
-
-### Technology Snapshot
+## 🗄️ Database Technology Snapshot
 
 | Area | Primary Technologies |
 |---|---|
-| Database & Automation | SQL, MySQL, SQLite, Supabase, DBMS & Schema Design, CRUD, SQL Triggers & Automation |
-| Backend & Integration | Python, PHP, Java, Supabase / Lovable Cloud, REST & GitHub API Integration, Authentication & Sessions, Real-time Messaging |
-| Frontend | HTML, CSS, JavaScript, TypeScript, React, Vite, TanStack Start, Tailwind CSS, shadcn/ui, Responsive UI / Fullscreen API |
-| AI & Security | Machine Learning (SAI Algorithm), TensorFlow, Keras, OpenCV, Cryptography & Encryption, Cybersecurity & Ethical Hacking |
-| Data & Reporting | Pandas, OpenPyXL, ReportLab, Excel, Streamlit, Power BI, DAX |
-| Cloud & Deployment | **Google Cloud (GCP)**, **Microsoft Azure**, Lovable Cloud, Streamlit Cloud, Oracle Cloud, GitHub |
-| Algorithms & Tools | Algorithms & Data Structures, Git & GitHub, Jupyter Notebook |
+| **Database** | SQL, MySQL, SQLite, Supabase |
+| **Database Design** | DBMS, schema design, structured relational data |
+| **Database Operations** | CRUD, SQL queries, database-driven workflows |
+| **Database Automation** | SQL triggers, time-based database workflows |
+| **Transactions** | Transaction workflows, reversal/rollback concepts, consistency |
+| **Application Integration** | PHP, Python, React, TypeScript with database-backed applications |
+| **Authentication** | MySQL-backed authentication and sessions |
+| **Data & Reporting** | Pandas, Excel, Power BI, DAX |
+| **Database Research** | Audit logging, database controls, payment recovery workflows |
+
+---
+
+## 🎯 Target Database Roles
+
+**Primary Target**
+- SQL Developer
+- Junior SQL Developer
+- Junior Database Developer
+- Database Developer
+
+**Related Target**
+- SQL / Backend Developer
+- Database Support / Application Support with SQL
+- Data-focused Application Developer
+
+### My Positioning
+
+> **SQL & Database Development is my primary career direction.**
+>
+> My portfolio is intentionally centered on **SQL, MySQL, SQLite, database design, CRUD operations, SQL triggers, transaction workflows, database-backed applications, and data-driven systems**.
+
+---
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/pallasivasai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/psivasaihacker143"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://instagram.com/p_siva_sai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.codechef.com/users/p_siva_sai"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-<a href="https://www.leetcode.com/P_siva_sai/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://auth.geeksforgeeks.org/user/psivasai/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="mailto:imsivasai01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/pallasivasai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.hackerrank.com/profile/Psivasai"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 
 <br /><br />
 
-### 🤝 Let's build something meaningful together!
+### 🤝 SQL • Databases • Data-Driven Systems
 
 </div>
