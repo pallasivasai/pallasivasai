@@ -12,9 +12,7 @@
   <a href="https://www.hackerrank.com/profile/Psivasai"><img src="https://img.shields.io/badge/HackerRank-SQL%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 </p>
 
-<p>
-  <a href="https://github.com/pallasivasai"><img src="https://img.shields.io/badge/GitHub%20Profile-View%20Profile-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
-</p>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=SQL+%26+Database+Development;MySQL+%7C+SQLite+%7C+Supabase;Database+Design+%7C+CRUD+%7C+SQL+Triggers;Transaction+Workflows+%7C+Data+Integrity;Building+Database-Driven+Applications" alt="Database-focused typing introduction" />
 
