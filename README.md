@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Palla Siva Sai**
 
-### Aspiring Software Developer • Cybersecurity Researcher • Full-Stack Builder
+### Database-First Software Developer • SQL & Backend Engineer • Full-Stack Builder
 
 <p>
   <a href="https://pallasivasai.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -30,9 +30,9 @@
 
 ## 👨‍💻 About Me
 
-I’m **Palla Siva Sai**, an aspiring software developer with interests in **full-stack web development, database design, cloud technologies, artificial intelligence, and cybersecurity**.
+I’m **Palla Siva Sai**, a database-first software developer focused on **SQL, database design, backend engineering, and full-stack application development**, with supporting interests in cloud technologies, artificial intelligence, and cybersecurity.
 
-I enjoy transforming ideas into useful applications, explaining technical concepts simply, and researching efficient solutions for real-world security problems.
+I enjoy designing practical data-driven applications, building reliable database workflows, explaining technical concepts simply, and researching efficient solutions for real-world security problems.
 
 - 🎓 **MCA** from **KL University** — **9.45 CGPA**
 - 💼 Working across freelance software development, recruitment, and engineering education
@@ -48,12 +48,12 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 
 <table>
   <tr>
-    <td>☁️ <b>Cloud & Development</b><br/>Building and learning modern web and cloud-based applications</td>
-    <td>🔐 <b>Cybersecurity</b><br/>DDoS detection, ethical hacking, cryptography, and secure systems</td>
+    <td>🗄️ <b>Database Engineering</b><br/>SQL, MySQL, schema design, CRUD, triggers, transaction workflows, and data-driven systems</td>
+    <td>⚙️ <b>Backend & Full-Stack Development</b><br/>Building application logic, APIs, authentication workflows, dashboards, and practical web applications</td>
   </tr>
   <tr>
-    <td>🗄️ <b>Data & Databases</b><br/>SQL, MySQL, schema design, triggers, and data-driven solutions</td>
-    <td>🤖 <b>AI & Machine Learning</b><br/>Practical AI assistants, anomaly detection, and intelligent applications</td>
+    <td>📊 <b>Data & Analytics</b><br/>SQL-driven reporting, Pandas, Excel, Power BI, DAX, and business-focused data solutions</td>
+    <td>🤖🔐 <b>AI, RAG & Cybersecurity</b><br/>LLM/RAG applications, DDoS detection, cryptography, ethical hacking, and secure systems</td>
   </tr>
 </table>
 
@@ -163,13 +163,27 @@ I enjoy transforming ideas into useful applications, explaining technical concep
 
 <div align="center">
 
-### 🖥️ Frontend → ⚙️ Backend → 🗄️ Database → ☁️ Cloud → 🤖 AI/Security
+### 🗄️ Database → ⚙️ Backend → 🖥️ Frontend → ☁️ Cloud → 🤖 AI/Security
+
+> **Database-first approach:** I focus on how data is modeled, stored, secured, queried, and connected to application logic before presenting it through the UI.
 
 <table>
   <tr>
     <th>Layer</th>
     <th>Technologies</th>
     <th>What I Build</th>
+  </tr>
+  <tr>
+    <td><b>🗄️ Database & Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    </td>
+    <td>Relational schema design, CRUD, SQL triggers, transaction workflows, analytics and reporting</td>
   </tr>
   <tr>
     <td><b>🎨 Frontend</b></td>
@@ -194,18 +208,6 @@ I enjoy transforming ideas into useful applications, explaining technical concep
       <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
     </td>
     <td>Python/PHP application logic, REST/API integration, authentication and application workflows</td>
-  </tr>
-  <tr>
-    <td><b>🗄️ Database & Data</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-    </td>
-    <td>Relational schema design, CRUD, SQL triggers, transaction workflows, analytics and reporting</td>
   </tr>
   <tr>
     <td><b>🤖 AI & Machine Learning</b></td>
@@ -646,9 +648,9 @@ Providing step-by-step engineering and computer-science explanations aligned wit
 
 | Area | Primary Technologies |
 |---|---|
-| Frontend | HTML, CSS, JavaScript, TypeScript, React, Vite, TanStack Start, Tailwind CSS, shadcn/ui, Responsive UI / Fullscreen API |
+| Database & Automation | SQL, MySQL, SQLite, Supabase, DBMS & Schema Design, CRUD, SQL Triggers & Automation |
 | Backend & Integration | Python, PHP, Java, Supabase / Lovable Cloud, REST & GitHub API Integration, Authentication & Sessions, Real-time Messaging |
-| Database & Automation | SQL, MySQL, SQLite, DBMS & Schema Design, SQL Triggers & Automation |
+| Frontend | HTML, CSS, JavaScript, TypeScript, React, Vite, TanStack Start, Tailwind CSS, shadcn/ui, Responsive UI / Fullscreen API |
 | AI & Security | Machine Learning (SAI Algorithm), TensorFlow, Keras, OpenCV, Cryptography & Encryption, Cybersecurity & Ethical Hacking |
 | Data & Reporting | Pandas, OpenPyXL, ReportLab, Excel, Streamlit, Power BI, DAX |
 | Cloud & Deployment | **Google Cloud (GCP)**, **Microsoft Azure**, Lovable Cloud, Streamlit Cloud, Oracle Cloud, GitHub |
