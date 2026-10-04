@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Palla Siva Sai**
 
-### 🗄️ SQL & Database Developer • Database-First Software Developer
+### 🗄️ SQL & Database Developer • Database Engineering Professional
 
 <p>
   <a href="https://pallasivasai.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
