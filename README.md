@@ -22,20 +22,6 @@
 
 ---
 
-## 🌐 Social & Professional Profiles
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/pallasivasai/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/pallasivasai"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.hackerrank.com/profile/Psivasai"><img src="https://img.shields.io/badge/HackerRank-SQL%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
-<a href="https://pallasivasai.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:imsivasai01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
-
----
-
 ## 🗄️ Database Developer Profile
 
 I’m **Palla Siva Sai**, a **database-first software developer focused on SQL and database development**.
